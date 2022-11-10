@@ -1,0 +1,10 @@
+{
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "vimMode": true,
+  "useTab": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "newFileLocation": "root"
+}

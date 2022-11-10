@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "bfd74ca405338baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "81bec0104338403a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa7cd621ea2a5483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-11-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04b980fa9615667f",
+    "type": "split",
+    "children": [
+      {
+        "id": "83d4f92a45664d33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c6e33d15cf3e690",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b16d57291c01343",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fec8dc17d6afe1e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3016f689372c118b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a651d18f34ee6190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35b3594eae71a279",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2022-11-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44899ed4cf64b706",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2022-11-10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bfd9e4c300e6e9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77aec609eea3ad76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2022-11-10.md"
+              }
+            }
+          },
+          {
+            "id": "dbc43e2c3c7c285b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "active": "aa7cd621ea2a5483",
+  "lastOpenFiles": [
+    "daily/2022-11-09.md",
+    "_templates/daily.md",
+    "daily/2022-11-10.md",
+    "Studies/Web Development Studies.md",
+    "Studies/Subjects/ReactJS.md",
+    "Studies/Subjects/Software Architecture.md",
+    "Studies/Subjects/TypeScript.md",
+    "Studies/Subjects/UI Design.md",
+    "Studies/Subjects/Version Control.md",
+    "Studies/Subjects/APIs.md"
+  ]
+}
