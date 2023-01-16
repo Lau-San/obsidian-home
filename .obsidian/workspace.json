@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Periodic/Daily/2023/01 - January/2023-01-14.md",
-            "mode": "preview",
+            "file": "Periodic/Daily/2023/01 - January/2023-01-15.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -58,7 +58,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-14.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-15.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-14.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-14.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,13 +187,13 @@
   },
   "active": "3cafc9e27dc9b9ec",
   "lastOpenFiles": [
+    "2023-01-15.md",
+    "Periodic/Daily/2023/01 - January/2023-01-14.md",
     "Periodic/Daily/2023/01 - January/2023-01-12.md",
     "Periodic/Daily/2023/01 - January/2023-01-09.md",
     "Periodic/Daily/2023/01 - January/2023-01-10.md",
     "Periodic/Daily/2023/01 - January/2023-01-11.md",
     "Periodic/Daily/2023/01 - January/2023-01-13.md",
-    "Periodic/Daily/2023/01 - January/2023-01-14.md",
-    "2023-01-15.md",
     "Periodic/Daily/2023/01 - January/2023-01-16.md",
     "_templates/daily.md",
     "Periodic/Weekly/2023/01 - January/2023-W02.md"
