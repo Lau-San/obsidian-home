@@ -4,22 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6fae51f35d0259ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c8a6a56a6097ae45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Periodic/Weekly/2023-W03.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
+        "id": "3cafc9e27dc9b9ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Periodic/Daily/2023-01-16.md",
+            "mode": "preview",
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -64,7 +58,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic/Weekly/2023-W03.md"
+                "file": "Periodic/Daily/2023-01-16.md"
               }
             }
           },
@@ -123,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic/Weekly/2023-W03.md",
+                "file": "Periodic/Daily/2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic/Weekly/2023-W03.md",
+                "file": "Periodic/Daily/2023-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,10 +183,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c8a6a56a6097ae45",
+  "active": "3cafc9e27dc9b9ec",
   "lastOpenFiles": [
-    "Periodic/Daily/2023-01-16.md",
     "Periodic/Weekly/2023-W03.md",
+    "Periodic/Daily/2023-01-16.md",
     "Periodic/Weekly/2023-W02.md",
     "_templates/weekly.md",
     "_templates/daily.md",
