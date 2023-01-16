@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "81bec0104338403a",
+        "id": "6fae51f35d0259ec",
         "type": "tabs",
         "children": [
           {
-            "id": "aa7cd621ea2a5483",
+            "id": "c8a6a56a6097ae45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-10.md",
-                "mode": "source",
+                "file": "Periodic/Weekly/2023-W03.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -29,9 +29,17 @@
     "type": "split",
     "children": [
       {
-        "id": "83d4f92a45664d33",
+        "id": "324e482fbdaae81e",
         "type": "tabs",
         "children": [
+          {
+            "id": "399820293dc1f741",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
           {
             "id": "7c6e33d15cf3e690",
             "type": "leaf",
@@ -43,33 +51,54 @@
             }
           },
           {
-            "id": "9b16d57291c01343",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "0fec8dc17d6afe1e",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "77aec609eea3ad76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Periodic/Weekly/2023-W03.md"
+              }
+            }
+          },
+          {
+            "id": "6bfd9e4c300e6e9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b16d57291c01343",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#readwise/articles",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 274.5
   },
   "right": {
     "id": "3016f689372c118b",
@@ -78,14 +107,23 @@
       {
         "id": "a651d18f34ee6190",
         "type": "tabs",
+        "dimension": 33.16880552813426,
         "children": [
+          {
+            "id": "dbc43e2c3c7c285b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "35b3594eae71a279",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-10.md",
+                "file": "Periodic/Weekly/2023-W03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,59 +140,66 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-10.md",
+                "file": "Periodic/Weekly/2023-W03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6bfd9e4c300e6e9e",
+            "id": "c3221eff5775c39e",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "77aec609eea3ad76",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "daily/2022-11-10.md"
-              }
-            }
-          },
-          {
-            "id": "dbc43e2c3c7c285b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "36843e321d88c25b",
+        "type": "tabs",
+        "dimension": 66.83119447186574,
+        "children": [
+          {
+            "id": "05f0d60ca907f8a3",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 320.5
   },
-  "active": "aa7cd621ea2a5483",
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "c8a6a56a6097ae45",
   "lastOpenFiles": [
-    "daily/2022-11-09.md",
+    "Periodic/Daily/2023-01-16.md",
+    "Periodic/Weekly/2023-W03.md",
+    "Periodic/Weekly/2023-W02.md",
+    "_templates/weekly.md",
     "_templates/daily.md",
-    "daily/2022-11-10.md",
-    "Studies/Web Development Studies.md",
-    "Studies/Subjects/ReactJS.md",
-    "Studies/Subjects/Software Architecture.md",
-    "Studies/Subjects/TypeScript.md",
-    "Studies/Subjects/UI Design.md",
-    "Studies/Subjects/Version Control.md",
-    "Studies/Subjects/APIs.md"
+    "Periodic/Daily/2023-01-15.md",
+    "Periodic/Daily/2023-01-14.md",
+    "Periodic/Daily/2023-01-17.md",
+    "Git.md",
+    "Periodic/Daily/2023-01-13.md"
   ]
 }

@@ -1,0 +1,176 @@
+{
+  "workspaces": {
+    "Brain Hub": {
+      "main": {
+        "id": "bfd74ca405338baf",
+        "type": "split",
+        "children": [
+          {
+            "id": "8d5950fb645d0372",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "495802c5a641bea4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Hubs/Brain Hub.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "04b980fa9615667f",
+        "type": "split",
+        "children": [
+          {
+            "id": "324e482fbdaae81e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "62e2b2860e80156a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7c6e33d15cf3e690",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0fec8dc17d6afe1e",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "77aec609eea3ad76",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Hubs/Brain Hub.md"
+                  }
+                }
+              },
+              {
+                "id": "6bfd9e4c300e6e9e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "9b16d57291c01343",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "date",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 274.5
+      },
+      "right": {
+        "id": "3016f689372c118b",
+        "type": "split",
+        "children": [
+          {
+            "id": "a651d18f34ee6190",
+            "type": "tabs",
+            "dimension": 33.16880552813426,
+            "children": [
+              {
+                "id": "dbc43e2c3c7c285b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "35b3594eae71a279",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Hubs/Brain Hub.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "44899ed4cf64b706",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Hubs/Brain Hub.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "36843e321d88c25b",
+            "type": "tabs",
+            "dimension": 66.83119447186574,
+            "children": [
+              {
+                "id": "05f0d60ca907f8a3",
+                "type": "leaf",
+                "state": {
+                  "type": "toggl-report",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 320.5
+      },
+      "active": "495802c5a641bea4"
+    }
+  },
+  "active": "Brain Hub"
+}

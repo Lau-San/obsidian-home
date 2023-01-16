@@ -1,0 +1,10 @@
+{
+  "things-style@@h2-underline": true,
+  "things-style@@active-line": true,
+  "things-style@@link-decoration": "None",
+  "things-style@@quote-color": "#73BAFF",
+  "things-style@@mobile-black-background": false,
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-style@@workspace-background-translucent@@dark": "#FFFFFF33",
+  "minimal-style@@embed-strict": false
+}

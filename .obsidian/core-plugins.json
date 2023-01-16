@@ -4,10 +4,10 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "outgoing-link",
   "tag-pane",
   "page-preview",
-  "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
@@ -16,5 +16,6 @@
   "starred",
   "outline",
   "word-count",
+  "workspaces",
   "file-recovery"
 ]

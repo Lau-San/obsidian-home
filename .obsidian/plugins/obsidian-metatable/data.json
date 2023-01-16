@@ -1,0 +1,16 @@
+{
+  "expansionMode": "root-collapsed",
+  "ignoreNulls": false,
+  "nullValue": "",
+  "skipKey": "skip-metatable",
+  "filterKeys": [
+    "metatable",
+    "frontmatter",
+    "obsidianEditingMode",
+    "obsidianUIMode"
+  ],
+  "filterMode": "ignore",
+  "autolinks": false,
+  "naked": false,
+  "theme": "dark"
+}

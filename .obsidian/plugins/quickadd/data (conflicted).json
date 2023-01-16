@@ -1,0 +1,393 @@
+{
+  "choices": [
+    {
+      "id": "7b3c4d28-923b-4f3d-bad7-21f3acee8f4c",
+      "name": "Template - New",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/generic.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "0a94d840-0c8c-4329-9f61-4a32cdc60c92",
+      "name": "Template - New Here",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/generic.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": true
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "83ca8962-bfc1-4df3-84f3-b97526264d7b",
+      "name": "Template - New Pokémon",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pokémon/Wiki/Pokémon"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "70987aa7-5202-463f-8b1c-c845fb061991",
+      "name": "Template - New Pokémon Move",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon-move.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pokémon/Wiki/Moves"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "4828515e-e621-47a0-ad41-b2cb4a1dafdf",
+      "name": "Template - New Pokémon Type",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon-type.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pokémon/Wiki/Types"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "4336d8b0-5219-43ce-bb3d-fe3c5b99b644",
+      "name": "Template - New Pokémon TM",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon-tm.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "TM{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "fb89496d-aab6-4702-abc2-d6924f91953e",
+      "name": "Template - New Pokémon Badge",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon-badge.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pokémon"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "895c3ab2-4a84-407b-8b11-93840c3f57d0",
+      "name": "Template - New Pokémon Item",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon-item.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pokémon"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "640330d8-bd63-453b-a7bb-2f9dc49492a2",
+      "name": "Template - New Pokémon Fossil",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon-fossil.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}} Fossil"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pokémon"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "21781c12-7899-4207-ae6f-8d6f46c95389",
+      "name": "Template - New Pokémon Region",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon-region.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pokémon/Wiki/World/Regions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "05ab7c61-a4b9-41d3-aa3e-016619fe5706",
+      "name": "Template - New Pokémon Town",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon-town.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pokémon/Wiki/World/Towns"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "2e2bccf3-507a-4b6f-b2c7-c7c5badceda6",
+      "name": "Template - New Pokémon Gym",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon-gym.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pokémon/Wiki/World/Gyms"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "86db3957-3afe-41be-b9da-60c221221231",
+      "name": "Template - New Pokémon Session",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/pokemon-session.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "PKMN Red - R1 - Session {{DATE:YYYY-MM-DD}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pokémon/Sessions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "88c50f23-7286-4731-a550-f60d66b2e515",
+      "name": "Template - New Resource",
+      "type": "Template",
+      "command": true,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

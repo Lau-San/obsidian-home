@@ -1,0 +1,33 @@
+{
+  "snippets": {
+    "best-flat-china-#41aa11": {
+      "type": "simple-task",
+      "taskSettings": [],
+      "id": "best-flat-china-#41aa11",
+      "name": "unchecked",
+      "baseFontSize": 14,
+      "version": "0.1.8",
+      "styleUncheckedTask": true,
+      "uncheckedTask": {
+        "data": " ",
+        "checkbox": {
+          "lightMode": {
+            "foreground": "#430091"
+          },
+          "darkMode": {
+            "foreground": "#acacaf"
+          },
+          "format": {
+            "fontSize": 19
+          }
+        },
+        "li": {
+          "lightMode": {},
+          "darkMode": {}
+        },
+        "unchecked": true
+      },
+      "borderRadius": 50
+    }
+  }
+}

@@ -6,5 +6,13 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "spellcheck": false,
-  "newFileLocation": "root"
+  "newFileLocation": "current",
+  "tabSize": 4,
+  "spellcheckLanguages": null,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "showFrontmatter": false,
+  "foldIndent": true
 }

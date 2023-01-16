@@ -1,6 +1,14 @@
 ---
-name: {{title}}
-type: person
+obsidianEditingMode: live
+obsidianUIMode: preview
 ---
+%%
+date:: 
+%%
 
-# {{title}}
+# <% tp.file.title %>
+<% await tp.file.move("/People/" + tp.file.title) %>
+> [!info] Metadata
+> **Tags**:: #people
+> 
+> **Birthday**:: 

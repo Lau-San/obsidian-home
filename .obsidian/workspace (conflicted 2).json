@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "bfd74ca405338baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "66b8ee9dbae98c06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3051e97c5072969e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokémon/Runs/PKMN Red Run 1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "c5a3d448c3cbba61",
+        "type": "split",
+        "children": [
+          {
+            "id": "dc9212eceded35c8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9e31bfc4f9b9fb81",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Excalidraw/Omanyte 2022-11-24 17.50.37.excalidraw.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "-path:\"Daily\" -path:\"templates\"",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#MOC",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16076109
+                          }
+                        },
+                        {
+                          "query": "path:\"Sessions\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16646005
+                          }
+                        },
+                        {
+                          "query": "path:\"Runs\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16349476
+                          }
+                        },
+                        {
+                          "query": "tag:#games/pokemon/pokemon",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8147680
+                          }
+                        },
+                        {
+                          "query": "tag:#games/pokemon/moves",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15885535
+                          }
+                        },
+                        {
+                          "query": "tag:#games/pokemon/types",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6867935
+                          }
+                        },
+                        {
+                          "query": "tag:#games/pokemon/places/regions",
+                          "color": {
+                            "a": 1,
+                            "rgb": 2941520
+                          }
+                        },
+                        {
+                          "query": "tag:#games/pokemon/games",
+                          "color": {
+                            "a": 1,
+                            "rgb": 3289060
+                          }
+                        },
+                        {
+                          "query": "tag:#games/pokemon",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16777215
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": -0.7,
+                      "nodeSizeMultiplier": 0.9421875,
+                      "lineSizeMultiplier": 1.27395833333333,
+                      "collapse-forces": true,
+                      "centerStrength": 0.71875,
+                      "repelStrength": 9.375,
+                      "linkStrength": 0.921875,
+                      "linkDistance": 250,
+                      "scale": 0.40844332494219915,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "ebc58236849682d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d3cd3d2a7b2dec43",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pokémon/Sessions/PKMN Red - R1 - Session 2022-11-24.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "a3796dbb4a53c4b7",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Omanyte 2022-11-24 17.50.37.excalidraw.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04b980fa9615667f",
+    "type": "split",
+    "children": [
+      {
+        "id": "83d4f92a45664d33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c6e33d15cf3e690",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77aec609eea3ad76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Omanyte 2022-11-24 17.50.37.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0fec8dc17d6afe1e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b16d57291c01343",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "date",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3016f689372c118b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a651d18f34ee6190",
+        "type": "tabs",
+        "dimension": 63.600782778864975,
+        "children": [
+          {
+            "id": "0026368419119c1d",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bfd9e4c300e6e9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35b3594eae71a279",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Omanyte 2022-11-24 17.50.37.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44899ed4cf64b706",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Omanyte 2022-11-24 17.50.37.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6894c70df5dc2e45",
+        "type": "tabs",
+        "dimension": 36.399217221135025,
+        "children": [
+          {
+            "id": "dbc43e2c3c7c285b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "active": "a3796dbb4a53c4b7",
+  "lastOpenFiles": [
+    "Pokémon/Runs/PKMN Red Run 1.md",
+    "Pokémon/Omanyte.md",
+    "Excalidraw/Omanyte 2022-11-24 17.50.37.excalidraw.md",
+    "Pokémon/Helix Fossil.md",
+    "assets/Pasted Image 20221117183537_368.png",
+    "assets/Omnyate.png",
+    "Pokémon/Sessions/PKMN Red - R1 - Session 2022-11-24.md",
+    "_templates/pokemon-fossil.md",
+    "_templates/pokemon-item.md",
+    "Pokémon/TMasdas.md"
+  ]
+}

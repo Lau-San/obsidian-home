@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "bfd74ca405338baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d5950fb645d0372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e27e53ddb32b1d80",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokémon/Runs/PKMN Red Run 1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "d6fad3c278fe109c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1e7740efd348a0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokémon/Sessions/PKMN Red - R1 - Session 2022-11-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04b980fa9615667f",
+    "type": "split",
+    "children": [
+      {
+        "id": "324e482fbdaae81e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62e2b2860e80156a",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c6e33d15cf3e690",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fec8dc17d6afe1e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "77aec609eea3ad76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pokémon/Runs/PKMN Red Run 1.md"
+              }
+            }
+          },
+          {
+            "id": "6bfd9e4c300e6e9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b16d57291c01343",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "date",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "3016f689372c118b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a651d18f34ee6190",
+        "type": "tabs",
+        "dimension": 33.16880552813426,
+        "children": [
+          {
+            "id": "dbc43e2c3c7c285b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "35b3594eae71a279",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pokémon/Runs/PKMN Red Run 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44899ed4cf64b706",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pokémon/Runs/PKMN Red Run 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "36843e321d88c25b",
+        "type": "tabs",
+        "dimension": 66.83119447186574,
+        "children": [
+          {
+            "id": "05f0d60ca907f8a3",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5,
+    "collapsed": true
+  },
+  "active": "e27e53ddb32b1d80",
+  "lastOpenFiles": [
+    "Pokémon/Sessions/PKMN Red - R1 - Session 2022-11-30.md",
+    "Pokémon/Runs/PKMN Red Run 1.md",
+    "Excalidraw/Pokemon Red Map.excalidraw.md",
+    "Pokémon/Wiki/Pokémon/Oddish.md",
+    "Pokémon/Wiki/Pokémon/Nidorino.md",
+    "Pokémon/Wiki/Pokémon/Oddish [conflicted].md",
+    "Pokémon/Wiki/Pokémon/Omanyte.md",
+    "Excalidraw/PokeEvol Oddish Gloom Vileplume Bellossom.excalidraw.md",
+    "assets/Bellosom.png",
+    "assets/Vileplume.png"
+  ]
+}

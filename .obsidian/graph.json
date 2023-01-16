@@ -1,22 +1,58 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "-path:\"_templates\" -path:\"Daily\" -path:\"Excalidraw\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Hubs/Brain Hub",
+      "color": {
+        "a": 1,
+        "rgb": 16768307
+      }
+    },
+    {
+      "query": "tag:#TOC",
+      "color": {
+        "a": 1,
+        "rgb": 16462456
+      }
+    },
+    {
+      "query": "tag:#resources",
+      "color": {
+        "a": 1,
+        "rgb": 4128382
+      }
+    },
+    {
+      "query": "tag:#people",
+      "color": {
+        "a": 1,
+        "rgb": 8854209
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 4632059
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.515625,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 0.34147441013880947,
+  "close": false
 }

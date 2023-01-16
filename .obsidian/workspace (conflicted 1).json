@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "bfd74ca405338baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f1b3f2e094bd13e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15b1f8b8cfda9209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokémon/Pokémon Red.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bc4b13b76f5bd91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokémon/Runs/PKMN Red Run 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1094b2ca49cf601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokémon/Sessions/PKMN Session 2022-11-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04b980fa9615667f",
+    "type": "split",
+    "children": [
+      {
+        "id": "83d4f92a45664d33",
+        "type": "tabs",
+        "dimension": 69.71496437054631,
+        "children": [
+          {
+            "id": "7c6e33d15cf3e690",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77aec609eea3ad76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pokémon/Sessions/PKMN Session 2022-11-17.md"
+              }
+            }
+          },
+          {
+            "id": "0fec8dc17d6afe1e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b16d57291c01343",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "date",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c88243668a326c00",
+        "type": "tabs",
+        "dimension": 30.28503562945368,
+        "children": [
+          {
+            "id": "1e0890c7d376e18c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Pokémon/Sessions/PKMN Session 2022-11-17.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "path:-\"_templates\" -\"Daily\"",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"People\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16643908
+                      }
+                    },
+                    {
+                      "query": "path:\"Subjects\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7143117
+                      }
+                    },
+                    {
+                      "query": "path:\"Resources\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2516733
+                      }
+                    },
+                    {
+                      "query": "tag:#studies",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3600987
+                      }
+                    },
+                    {
+                      "query": "tag:#games/pokemon/pokemon",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11405891
+                      }
+                    },
+                    {
+                      "query": "tag:#games/pokemon/towns",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13067491
+                      }
+                    },
+                    {
+                      "query": "tag:#games",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:\"\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16777215
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.5,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 0.916666666666667,
+                  "collapse-forces": false,
+                  "centerStrength": 0.864583333333333,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4084433249421965,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3016f689372c118b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a651d18f34ee6190",
+        "type": "tabs",
+        "dimension": 63.600782778864975,
+        "children": [
+          {
+            "id": "0026368419119c1d",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bfd9e4c300e6e9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35b3594eae71a279",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pokémon/Sessions/PKMN Session 2022-11-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44899ed4cf64b706",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pokémon/Sessions/PKMN Session 2022-11-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6894c70df5dc2e45",
+        "type": "tabs",
+        "dimension": 36.399217221135025,
+        "children": [
+          {
+            "id": "dbc43e2c3c7c285b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "active": "f1094b2ca49cf601",
+  "lastOpenFiles": [
+    "Pokémon/Runs/PKMN Red Run 1.md",
+    "Pokémon/Sessions/PKMN Session 2022-11-17.md",
+    "Pokémon/Pokémon Red.md",
+    "Pokémon/Pokémon.md",
+    "Daily/2022-11-17.md",
+    "Pokémon/Kanto.md",
+    "Pokémon/Charmander.md",
+    "Daily/Personal Knowledge Management.md",
+    "Resources/NVDH - Personal Knownedge Management.md",
+    "Resources/Platzi - Fundamentos de Arquitectura de Software.md"
+  ]
+}

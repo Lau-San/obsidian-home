@@ -1,0 +1,30 @@
+{
+  "token": "fsjcBLEmfyGk3Y6UdXzZrqTCnl4w6RIQUZMrWB0zpRtvAvp00k",
+  "readwiseDir": "Resources/Readwise",
+  "frequency": "60",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 6883835,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [
+    "22293241",
+    "22295370",
+    "22297124",
+    "22414550",
+    "22297852",
+    "22298262",
+    "22477714",
+    "22296980"
+  ],
+  "booksIDsMap": {
+    "Resources/Readwise/Welcome to Instapaper!.md": "22477714",
+    "Resources/Readwise/What Is HTTP.md": "22296980",
+    "Resources/Readwise/Techopedia Explains Internet.md": "22297852",
+    "Resources/Readwise/The Internet, Explained.md": "22298262",
+    "Resources/Readwise/An Overview of HTTP.md": "22297124",
+    "Resources/Readwise/Godot's Design Philosophy¶.md": "22414550"
+  },
+  "reimportShowConfirmation": true
+}

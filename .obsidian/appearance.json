@@ -5,5 +5,10 @@
   "interfaceFontFamily": "Ubuntu",
   "textFontFamily": "Iosevka",
   "monospaceFontFamily": "Cascadia Code",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "simple-task-alert-eventide"
+  ]
 }

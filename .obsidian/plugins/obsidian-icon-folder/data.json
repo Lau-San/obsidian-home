@@ -6,10 +6,10 @@
     "iconColor": null,
     "recentlyUsedIcons": [
       "FasCalendarDay",
-      "FasFileCode",
-      "FasGraduationCap",
-      "FasPerson",
-      "FasAppleWhole"
+      "FasCalendarWeek",
+      "FasAlignJustify",
+      "Fas1",
+      "FasRepeat"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -18,11 +18,17 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "emojiStyle": "none"
   },
-  "Studies": "FasGraduationCap",
-  "Studies/Subjects": "FasGraduationCap",
   "People": "FasPerson",
   "_templates": "FasFileCode",
-  "daily": "FasCalendarDay"
+  "Resources": "FasBook",
+  "_scripts": "FasCode",
+  "assets": "FasPuzzlePiece",
+  "Excalidraw": "FasPenNib",
+  "Hubs": "RiHome7Fill",
+  "Periodic/Daily": "FasCalendarDay",
+  "Periodic": "FasRepeat",
+  "Periodic/Weekly": "FasCalendarWeek"
 }

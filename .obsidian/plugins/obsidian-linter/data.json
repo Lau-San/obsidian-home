@@ -12,10 +12,10 @@
       "Remove Hashtags from tags in the YAML frontmatter, as they make the tags there invalid.": true
     },
     "Format Yaml Array": {
-      "Allows for the formatting of regular yaml arrays as either multi-line or single-line and `tags` and `aliases` are allowed to have some Obsidian specific yaml formats. Note that single string to single-line goes from a single string entry to a single-line array if more than 1 entry is present. The same is true for single string to multi-line except it becomes a multi-line array.": false,
+      "Allows for the formatting of regular yaml arrays as either multi-line or single-line and `tags` and `aliases` are allowed to have some Obsidian specific yaml formats. Note that single string to single-line goes from a single string entry to a single-line array if more than 1 entry is present. The same is true for single string to multi-line except it becomes a multi-line array.": true,
       "Format yaml aliases section": true,
       "Format yaml tags section": true,
-      "Default yaml array section style": "single-line",
+      "Default yaml array section style": "multi-line",
       "Format yaml array sections": true,
       "Force key values to be single-line arrays": "",
       "Force key values to be multi-line arrays": ""
@@ -34,18 +34,18 @@
       "YAML Keys to Remove": ""
     },
     "YAML Key Sort": {
-      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": false,
-      "YAML Key Priority Sort Order": "",
-      "Priority Keys at Start of YAML": true,
-      "YAML Sort Order for Other Keys": "None"
+      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": true,
+      "YAML Key Priority Sort Order": "type\nid\ntitle\nname\naliases\ntags\ndependencies\nstatus",
+      "Priority Keys at Start of YAML": false,
+      "YAML Sort Order for Other Keys": "Ascending Alphabetical"
     },
     "YAML Timestamp": {
       "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": false,
       "Date Created": true,
-      "Date Created Key": "date created",
+      "Date Created Key": "date-created",
       "Date Modified": true,
-      "Date Modified Key": "date modified",
-      "Format": "dddd, MMMM Do YYYY, h:mm:ss a"
+      "Date Modified Key": "date-modified",
+      "Format": "YYYY-MM-DD HH:mm"
     },
     "YAML Title": {
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,
@@ -53,7 +53,7 @@
     },
     "YAML Title Alias": {
       "Inserts the title of the file into the YAML frontmatter's aliases section. Gets the title from the first H1 or filename.": false,
-      "Preserve existing aliases section style": true,
+      "Preserve existing aliases section style": false,
       "Keep alias that matches the filename": false,
       "Use the YAML key `linter-yaml-title-alias` to help with filename and heading changes": true
     },
@@ -169,9 +169,6 @@
     "Space after list markers": {
       "There should be a single space after list markers and checkboxes.": false
     },
-    "Space between Chinese and English or numbers": {
-      "Ensures that Chinese and English or numbers are separated by a single space. Follows these [guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)": false
-    },
     "Trailing spaces": {
       "Removes extra spaces after every line.": false,
       "Two Space Linebreak": false
@@ -199,16 +196,21 @@
     },
     "Remove Multiple Blank Lines on Paste": {
       "Condenses multiple blank lines down into one blank line for the text to paste": false
+    },
+    "Space between Chinese Japanese or Korean and English or numbers": {
+      "Ensures that Chinese, Japanese, or Korean and English or numbers are separated by a single space. Follows these [guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)": false
     }
   },
   "lintOnSave": true,
+  "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "foldersToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": 4,
   "lintCommands": [],
+  "customRegexes": [],
   "commonStyles": {
-    "aliasArrayStyle": "single string comma delimited",
+    "aliasArrayStyle": "single string to multi-line",
     "tagArrayStyle": "multi-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\""
