@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_templates/daily.md",
-            "mode": "source",
+            "file": "Periodic/Daily/2023/01 - January/2023-01-16.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -58,7 +58,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/daily.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-16.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/daily.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/daily.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +187,9 @@
   },
   "active": "3cafc9e27dc9b9ec",
   "lastOpenFiles": [
+    "_templates/daily.md",
     "Periodic/Daily/2023/01 - January/2023-01-16.md",
     "Periodic/Weekly/2023-W03.md",
-    "_templates/daily.md",
     "Python Type boolean.md",
     "Periodic/Daily/2023/01 - January/2023-01-15.md",
     "Periodic/Weekly/2023/01 - January/2023-W04.md",
