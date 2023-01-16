@@ -8,8 +8,15 @@
     "properties": []
   },
   "AutoProperties": {
-    "enabled": false,
-    "properties": []
+    "enabled": true,
+    "properties": [
+      {
+        "name": "**Mood**",
+        "choices": [
+          ""
+        ]
+      }
+    ]
   },
   "EditMode": {
     "mode": "All Single",
