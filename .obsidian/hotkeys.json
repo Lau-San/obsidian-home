@@ -81,7 +81,8 @@
   "metaedit:metaEditRun": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "M"
     }
