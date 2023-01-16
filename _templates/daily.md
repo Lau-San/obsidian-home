@@ -9,6 +9,8 @@ type: daily
 
 # {{date:dddd Do, MMMM YYYY}}
 <% await tp.file.move('/Periodic/Daily/' + tp.date.now('YYYY/MM - MMMM/') + tp.file.title) %>
+Mood:: 
+
 ## This Week
 
 ```dataviewjs
