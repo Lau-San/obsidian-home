@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python Type boolean.md",
-            "mode": "preview",
+            "file": "Periodic/Daily/2023/01 - January/2023-01-16.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -58,7 +58,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Type boolean.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-16.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Type boolean.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Type boolean.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,15 +187,15 @@
   },
   "active": "3cafc9e27dc9b9ec",
   "lastOpenFiles": [
+    "_templates/daily.md",
+    "Python Type boolean.md",
     "Periodic/Daily/2023/01 - January/2023-01-16.md",
     "Periodic/Daily/2023/01 - January/2023-01-15.md",
     "Periodic/Weekly/2023/01 - January/2023-W04.md",
     "Periodic/Daily/2023/01 - January/2023-01-17.md",
-    "_templates/daily.md",
     "Periodic/Weekly/2023/01 - January/2023-W02.md",
     "Django Apps.md",
     "Periodic/Daily/2023/01 - January/2023-01-12.md",
-    "Periodic/Daily/2023/01 - January/2023-01-13.md",
-    "Periodic/Daily/2023/01 - January/2023-01-14.md"
+    "Periodic/Daily/2023/01 - January/2023-01-13.md"
   ]
 }
