@@ -13,8 +13,8 @@
       {
         "name": "**Mood**",
         "choices": [
-          ":large_green_square:",
-          ":large_red_square:"
+          "🟩",
+          "🟥"
         ]
       }
     ]
