@@ -9,7 +9,7 @@
       "day": {
         "enabled": true,
         "openAtStartup": true,
-        "format": "YYYY/YYYY-MM-DD",
+        "format": "YYYY/MMMM/YYYY-MM-DD",
         "templatePath": "_templates/daily.md",
         "folder": "Periodic/Daily"
       },
@@ -17,7 +17,7 @@
         "enabled": true,
         "folder": "Periodic/Weekly",
         "templatePath": "_templates/weekly.md",
-        "format": "YYYY/"
+        "format": "YYYY/MMMM/gggg-[W]ww"
       },
       "month": {},
       "quarter": {},
