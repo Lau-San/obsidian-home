@@ -4,10 +4,10 @@ obsidianUIMode: preview
 type: weekly
 ---
 
-**<** [[Periodic/Weekly/<% tp.date.now('gggg-[W]ww', offset = -7, reference = tp.file.title) %>|Previous week]] **|** [[Periodic/Weekly/<% tp.date.now('gggg-[W]ww', offset = 7, reference = tp.file.title) %>|Next week]] **>**
+**<** [[Periodic/Weekly/<% tp.date.now('YYYY/MM - MMMM/gggg-[W]ww', offset = -7, reference = tp.file.title) %>|Previous week]] **|** [[Periodic/Weekly/<% tp.date.now('YYYY/MM - MMMM/gggg-[W]ww', offset = 7, reference = tp.file.title) %>|Next week]] **>**
 
 # <% tp.file.title %>
-<% await tp.file.move('/Periodic/Weekly/' + tp.file.title) %>
+<% await tp.file.move('/Periodic/Weekly/' + tp.date.now('') + tp.file.title) %>
 ## Tasks
 
 
