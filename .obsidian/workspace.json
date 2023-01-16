@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Periodic/Daily/2023/01 - January/2023-01-16.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -187,6 +187,8 @@
   },
   "active": "3cafc9e27dc9b9ec",
   "lastOpenFiles": [
+    "Periodic/Weekly/2023/01 - January/2023-W02.md",
+    "Periodic/Daily/2023/01 - January/2023-01-16.md",
     "Periodic/Daily/2023/01 - January/2023-01-01.md",
     "Periodic/Daily/2022/12 - December/2022-12-01.md",
     "Periodic/Daily/2022/11 - November/2022-11-09.md",
@@ -194,8 +196,6 @@
     "Periodic/Daily/2022/11 - November/2022-11-11.md",
     "_templates/daily.md",
     "_templates/weekly.md",
-    "Periodic/Daily/2023/01 - January/2023-01-16.md",
-    "Periodic/Daily/2023-01-15.md",
-    "Periodic/Weekly/2023-W03.md"
+    "Periodic/Daily/2023-01-15.md"
   ]
 }
