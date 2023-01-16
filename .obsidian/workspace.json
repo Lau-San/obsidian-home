@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Periodic/Daily/2023/01 - January/2023-01-16.md",
+            "file": "Django Apps.md",
             "mode": "preview",
             "source": false
           }
@@ -58,7 +58,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-16.md"
+                "file": "Django Apps.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-16.md",
+                "file": "Django Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-16.md",
+                "file": "Django Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,11 +187,11 @@
   },
   "active": "3cafc9e27dc9b9ec",
   "lastOpenFiles": [
+    "Periodic/Daily/2023/01 - January/2023-01-16.md",
     "Periodic/Daily/2023/01 - January/2023-01-15.md",
     "Periodic/Daily/2023/01 - January/2023-01-12.md",
     "Periodic/Daily/2023/01 - January/2023-01-13.md",
     "Periodic/Daily/2023/01 - January/2023-01-14.md",
-    "Periodic/Daily/2023/01 - January/2023-01-16.md",
     "_templates/daily.md",
     "_templates/event.md",
     "_templates/weekly.md",
