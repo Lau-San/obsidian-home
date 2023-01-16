@@ -12,7 +12,7 @@ type: daily
 ## This Week
 
 ```dataviewjs
-const weekPage = dv.page('Periodic/Weekly/<% tp.date.now('gggg-[W]ww') %>')
+const weekPage = dv.page('Periodic/Weekly/<% tp.date.now('YYYY/MM - MMMM/gggg-[W]ww') %>')
 dv.taskList(weekPage.file.tasks.where(b => !b.text.includes('tags:: weekly')))
 ```
 
