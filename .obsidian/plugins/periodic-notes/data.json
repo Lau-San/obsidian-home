@@ -1,7 +1,7 @@
 {
   "installedVersion": "1.0.0-beta1",
   "activeCalendarSet": "Default",
-  "showGettingStartedBanner": true,
+  "showGettingStartedBanner": false,
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "calendarSets": [
