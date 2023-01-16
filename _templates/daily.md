@@ -1,5 +1,5 @@
 ---
-date: {{date}}
+date: {{date:YYYY-MM-DD}}
 obsidianEditingMode: live
 obsidianUIMode: preview
 type: daily
