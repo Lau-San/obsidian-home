@@ -14,7 +14,7 @@ Mood::
 ## This Week
 
 ```dataviewjs
-const weekPage = dv.page('Periodic/Weekly/<% tp.date.now('YYYY/MM - MMMM/gggg-[W]ww') %>')
+const weekPage = dv.page('Periodic/Weekly/<% tp.date.now('YYYY/MM - MMMM/gggg-[W]ww', reference = tp.file.title ) %>')
 dv.taskList(weekPage.file.tasks.where(b => !b.text.includes('tags:: weekly')))
 ```
 
