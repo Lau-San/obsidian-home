@@ -49,13 +49,13 @@ dv.taskList(dv.pages().file.tasks
 ## How I spent my time
 
 ```toggl
-SUMMARY FROM {{date}} TO {{date}}
+SUMMARY FROM {{date:YYYY-MM-DD}} TO {{date:YYYY-MM-DD}}
 TITLE "Toggl Report"
 ```
 
 ```toggl
 LIST
-FROM {{date}} TO {{date}}
+FROM {{date:YYYY-MM-DD}} TO {{date:YYYY-MM-DD}}
 ```
 
 ### Notes I worked on
