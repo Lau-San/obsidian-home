@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 6915860,
+  "lastSavedStatusID": 6916280,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -25,7 +25,8 @@
     "Resources/Readwise/The Internet, Explained.md": "22298262",
     "Resources/Readwise/An Overview of HTTP.md": "22297124",
     "Resources/Readwise/Godot's Design Philosophy¶.md": "22414550",
-    "Resources/Readwise/What Is a REST API.md": "23382021"
+    "Resources/Readwise/What Is a REST API.md": "23382021",
+    "Resources/Readwise/13 Best Practices for Building RESTful APIs.md": "23383677"
   },
   "reimportShowConfirmation": true
 }

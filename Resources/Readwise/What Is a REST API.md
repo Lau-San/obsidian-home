@@ -141,3 +141,63 @@ obsidianUIMode: preview
 > 1. An HTTP `OPTIONS` request to the same URL determine whether the `Access-Control-Allow-Origin` HTTP response header is valid
 > 2. The actual REST call
 
+## New highlights added January 17, 2023 at 1:21 PM
+
+> [!quote] [View Highlight](https://read.readwise.io/read/01gq0dgjfqj2dert1t10xzv8ff)
+> Consider the following endpoints:
+> • `/user/123`
+> • `/user/id/123`
+> • `/user/?id=123`
+> All are valid options to fetch data for user `123`. The number of combinations increase further when you have more complex operations.
+
+
+> [!quote] [View Highlight](https://read.readwise.io/read/01gq0dh9mt92gd00gpzr4yen2t)
+> Ultimately, it doesn’t matter how you format URLs, but consistency across your API is important.
+
+
+> [!quote] [View Highlight](https://read.readwise.io/read/01gq0dnxt4fz49q9krm6nwhkw1)
+> APIs are often versioned to avoid compatibility issues. For example, `/2.0/user/123` supersedes `/user/123`. Both the new and old endpoint can remain active. Unfortunately, it then becomes necessary to maintain multiple historical APIs.
+
+
+> [!quote] [View Highlight](https://read.readwise.io/read/01gq0dqp4bd55g9v4rr28t5zav)
+> Client-side applications on the same domain as the RESTful API will send and receive cookies just like any other HTTP request. (Note that `Fetch()` in older browsers requires the `credentials` [init option](https://developer.mozilla.org/docs/Web/API/WindowOrWorkerGlobalScope/fetch#Parameters) to be set.) An API request can therefore be validated to ensure a user is logged in and has appropriate rights.
+
+
+> [!quote] [View Highlight](https://read.readwise.io/read/01gq0dr6vebnt0j2d3t9hm6gpc)
+> Third-party applications must use alternative methods of authorization. Common [authentication options](https://swagger.io/docs/specification/authentication/) include:
+> • **[HTTP basic authentication](https://swagger.io/docs/specification/authentication/basic-authentication/)**. An HTTP `Authorization` header containing a base64-encoded username:password string is passed in the request header.
+> • **[API keys](https://swagger.io/docs/specification/authentication/api-keys/)**. A third-party application is granted permission to use an API by issuing a key which may have specific rights or be restricted to a particular domain. The key is passed in every request in the HTTP header or on the querystring.
+> • **[OAuth](https://oauth.net/)**. A token is obtained before any request can be made by sending a client ID and possibly a client secret to an OAuth server. The OAuth token is then sent with each API request until it expires.
+> • **[JSON Web Tokens (JWT)](https://jwt.io/)**. Digitally signed authentication tokens are securely transmitted in both the request and response header. JWTs allow the server to encode access rights so calls to a database or other authorization system is not necessary.
+
+
+> [!quote] [View Highlight](https://read.readwise.io/read/01gq0dsgcxtz49yhn783qxbf00)
+> API authentication will vary depending on the use context:
+> • In some cases, a third-party application is treated like any other another logged-in user with specific rights and permissions. For example, a map API could return directions between two points to a calling application. It must confirm the application is a valid client but doesn’t need to check user credentials.
+> • In other cases, the third-party application is requesting data private to an individual user such as email content. The REST API must identify the user and their rights, but it may not care which application is calling the API.
+
+
+> [!quote] [View Highlight](https://read.readwise.io/read/01gq0dtzezvrq5a1ewmx5zcxxk)
+> A RESTful API provides another route to access and manipulate your application. Even if it’s not a high-profile hacking target, a badly behaved client could send thousands of requests every second and crash your server.
+
+
+> [!quote] [View Highlight](https://read.readwise.io/read/01gq0dvbdtk6hf35crp7j1cfnx)
+> • use HTTPS
+> • use [CORS](https://www.sitepoint.com/rest-api/#clientsiderestrequestsandcors) to limit client-side calls to specific domains
+> • provide minimum functionality — that is, don’t create DELETE options which are not required
+> • validate all endpoint URLs and body data
+> • avoid exposing API tokens in client-side JavaScript
+> • block access from unknown domains or IP addresses
+> • block unexpectedly large payloads
+> • consider rate limiting — that is, requests using the same API token or IP address are limited to N per minute
+> • log requests and investigate failures
+
+
+> [!quote] [View Highlight](https://read.readwise.io/read/01gq0e1de11wprn84g4f9b9q8y)
+> Consider a RESTful API which provides access to author and book data. To show data for the top 10 selling books, the client could:
+> • Request the first 10 `/book/` details ordered by number of sales (top seller first). The response contains a list of books with each author ID.
+> • Make up to 10 `/author/{id}` requests to fetch each author’s details.
+> This is known as the **N+1 problem**; N API requests must be made for each result in the parent request.
+> If this is a common use case, the RESTful API could be changed so that every returned book contained the full author details such as their name, age, country, biography, and so on. It could even provide full details of their other books — although this could considerably increase the response payload!
+> To avoid unnecessarily large responses, the API could be adjusted so author details are optional — for example, `?author_details=full`. The number of options API authors need to cater for can become bewildering.
+
