@@ -46,8 +46,3 @@ My process for taking notes and building my second brain is as follows:
 ## Personal
 
 - [[People]]
-
-- Page
-> dadsadasda
-> asdsasd
-> asdad

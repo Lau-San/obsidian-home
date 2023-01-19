@@ -2,7 +2,7 @@
   "version": 2,
   "defaultNote": "Home",
   "useMoment": true,
-  "momentFormat": "[Periodic/Daily/]YYYY-MM-DD",
+  "momentFormat": "[Periodic/Daily/]YYYY/MM - MMMM/YYYY-MM-DD",
   "workspace": "Home",
   "workspaceEnabled": false,
   "hasRibbonIcon": false,
