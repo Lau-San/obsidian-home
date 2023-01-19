@@ -86,5 +86,16 @@
       ],
       "key": "M"
     }
-  ]
+  ],
+  "workspace:toggle-stacked-tabs": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "editor:save-file": []
 }

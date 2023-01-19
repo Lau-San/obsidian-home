@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -32,14 +33,6 @@
         "id": "324e482fbdaae81e",
         "type": "tabs",
         "children": [
-          {
-            "id": "399820293dc1f741",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
           {
             "id": "7c6e33d15cf3e690",
             "type": "leaf",
@@ -192,15 +185,15 @@
   },
   "active": "3cafc9e27dc9b9ec",
   "lastOpenFiles": [
+    "Resources/Fundamentos de Arquitectura de Software - Platzi.md",
+    "Periodic/Daily/2023/01 - January/2023-01-19.md",
+    "Resources/Readwise/Welcome to Instapaper!.md",
     "Periodic/Daily/2023/01 - January/2023-01-18.md",
     "Periodic/Daily/2023/01 - January/2023-01-17.md",
     "Periodic/Weekly/2023/01 - January/2023-W03.md",
     "_templates/resource.md",
     "_templates/daily.md",
     "Resources/Readwise/What Is a REST API.md",
-    "Resources/Readwise/An Overview of HTTP.md",
-    "Resources/Readwise/13 Best Practices for Building RESTful APIs.md",
-    "Periodic/Daily/2023/01 - January/2023-01-16.md",
-    "2023-01-17.md"
+    "Resources/Readwise/An Overview of HTTP.md"
   ]
 }
