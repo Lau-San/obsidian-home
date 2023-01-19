@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Curso Básico de Django - Platzi.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-19.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Curso Básico de Django - Platzi.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-19.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Curso Básico de Django - Platzi.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Curso Básico de Django - Platzi.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,15 +175,15 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "7c6e33d15cf3e690",
+  "active": "3cafc9e27dc9b9ec",
   "lastOpenFiles": [
+    "Periodic/Daily/2023/01 - January/2023-01-18.md",
+    "Periodic/Daily/2023/01 - January/2023-01-19.md",
+    "Resources/Curso Básico de Django - Platzi.md",
     "Hubs/Resources.md",
     "Hubs/Brain Hub.md",
-    "Resources/Curso Básico de Django - Platzi.md",
-    "Periodic/Daily/2023/01 - January/2023-01-19.md",
     "Resources/Fundamentos de Arquitectura de Software - Platzi.md",
     "Resources/Readwise/Welcome to Instapaper!.md",
-    "Periodic/Daily/2023/01 - January/2023-01-18.md",
     "Periodic/Daily/2023/01 - January/2023-01-17.md",
     "Periodic/Weekly/2023/01 - January/2023-W03.md",
     "_templates/resource.md"
