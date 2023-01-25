@@ -5,7 +5,7 @@ obsidianUIMode: preview
 type: daily
 ---
 
-**<** [[Periodic/Daily/<% tp.date.now('YYYY/MM - MMMM/YYYY-MM-DD', offset = -1, reference = tp.file.title) %>|Previous day]] **|** [[Periodic/Daily/<% tp.date.now('YYYY/MM-MMMM/YYYY-MM-DD', offset = 1, reference = tp.file.title) %>|Next day]] **>**
+**<** [[Periodic/Daily/<% tp.date.now('YYYY/MM - MMMM/YYYY-MM-DD', offset = -1, reference = tp.file.title) %>|Previous day]] **|** [[Periodic/Daily/<% tp.date.now('YYYY/MM-MMMM/YYYY - MM-DD', offset = 1, reference = tp.file.title) %>|Next day]] **>**
 
 # {{date:dddd Do, MMMM YYYY}}
 <% await tp.file.move('/Periodic/Daily/' + tp.date.now('YYYY/MM - MMMM/') + tp.file.title) %>
