@@ -1,9 +1,7 @@
 [
   "obsidian-kanban",
-  "table-editor-obsidian",
   "calendar",
   "cm-editor-syntax-highlight-obsidian",
-  "dataview",
   "obsidian-vimrc-support",
   "nldates-obsidian",
   "buttons",
@@ -11,11 +9,9 @@
   "obsidian-charts",
   "obsidian-view-mode-by-frontmatter",
   "templater-obsidian",
-  "customjs",
   "obsidian-excalidraw-plugin",
   "quickadd",
   "oz-clear-unused-images",
-  "obsidian-hider",
   "obsidian-better-command-palette",
   "obsidian-frontmatter-tag-suggest",
   "obsidian-icon-shortcodes",
@@ -23,7 +19,6 @@
   "obsidian-task-collector",
   "obsidian-snippetor",
   "obsidian-toggl-integration",
-  "obsidian-dice-roller",
   "obsidian-paste-image-rename",
   "omnisearch",
   "obsidian-style-settings",
@@ -33,5 +28,9 @@
   "homepage",
   "obsidian-git",
   "obsidian42-brat",
-  "periodic-notes"
+  "periodic-notes",
+  "customjs",
+  "dataview",
+  "obsidian-dice-roller",
+  "obsidian-hider"
 ]

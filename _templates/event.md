@@ -3,3 +3,5 @@
 > [!info] Event Details
 > **With**:: [[Mario]]
 > **Date**:: [[2023-01-31]]
+
+`some code here`

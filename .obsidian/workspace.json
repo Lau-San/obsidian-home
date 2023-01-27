@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_templates/event.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -132,7 +132,7 @@
             }
           },
           {
-            "id": "f92ff4a06a0c9fb8",
+            "id": "2e1bfeda6dde01b8",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
