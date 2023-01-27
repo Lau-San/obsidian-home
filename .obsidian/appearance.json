@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "",
+  "cssTheme": "Things",
   "interfaceFontFamily": "Ubuntu",
   "textFontFamily": "Iosevka NF",
-  "monospaceFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "mononoki Nerd Font Mono",
   "showViewHeader": true,
   "nativeMenus": false,
   "baseFontSize": 16,

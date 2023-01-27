@@ -83,6 +83,32 @@
       "openFileInMode": "default"
     },
     {
+      "id": "f62e1311-abf0-428e-b088-79733b093afe",
+      "name": "Template - New Event",
+      "type": "Template",
+      "command": true,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
       "id": "367ed838-b188-4b70-83f3-e91cd65703bb",
       "name": "Capture - Daily log",
       "type": "Capture",
