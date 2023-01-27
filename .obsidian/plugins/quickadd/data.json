@@ -143,6 +143,13 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "8cc50072-a95b-4320-b551-7657208f00c7",
+      "name": "Test",
+      "type": "Macro",
+      "command": true,
+      "macroId": "04c3b1b7-c7a6-4b43-bc6e-392dd7c72fea"
     }
   ],
   "macros": [
@@ -151,35 +158,16 @@
       "id": "04c3b1b7-c7a6-4b43-bc6e-392dd7c72fea",
       "commands": [
         {
-          "name": "Untitled Template Choice",
-          "type": "NestedChoice",
-          "id": "cbd048c9-91a0-4861-a4e8-a28b0968e99c",
-          "choice": {
-            "id": "987a0e4c-b974-4efe-805c-4795f7e08550",
-            "name": "Untitled Template Choice",
-            "type": "Template",
-            "command": false,
-            "templatePath": "_templates/event.md",
-            "fileNameFormat": {
-              "enabled": true,
-              "format": "{{VALUE:date}}-{{VALUE}}"
-            },
-            "folder": {
-              "enabled": false,
-              "folders": [],
-              "chooseWhenCreatingNote": false,
-              "createInSameFolderAsActiveFile": false
-            },
-            "appendLink": false,
-            "incrementFileName": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": false,
-            "openFileInMode": "default"
-          }
+          "name": "Template - New Event",
+          "type": "Choice",
+          "id": "0d102f12-e71b-4569-a8dc-842e7af7fc55",
+          "choiceId": "0f2bd3f1-1fa0-4b4b-a8c0-802d1eeaace8"
+        },
+        {
+          "name": "MetaEdit: Run MetaEdit",
+          "type": "Obsidian",
+          "id": "19ba0dd2-9d76-4647-a160-916aa2640c00",
+          "commandId": "metaedit:metaEditRun"
         }
       ],
       "runOnStartup": false
