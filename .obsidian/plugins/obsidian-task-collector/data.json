@@ -1,18 +1,40 @@
 {
-  "completedAreaHeader": "## Log",
-  "removeExpression": "",
-  "appendDateFormat": "",
-  "appendRemoveAllTasks": false,
-  "incompleteTaskValues": " <>D!d/",
-  "onlyLowercaseX": false,
-  "supportCanceledTasks": true,
-  "previewOnClick": false,
-  "rightClickComplete": true,
-  "rightClickMark": true,
-  "rightClickMove": false,
-  "rightClickResetTask": true,
-  "rightClickResetAll": false,
-  "rightClickToggleAll": false,
-  "completedAreaRemoveCheckbox": false,
-  "rightClickReset": false
+  "groups": {
+    "default": {
+      "name": "default",
+      "marks": " !/<>Dd",
+      "complete": false,
+      "removeExpr": "",
+      "appendDateFormat": "",
+      "registerCommand": false,
+      "useContextMenu": false
+    },
+    "complete": {
+      "name": "complete",
+      "marks": "-Xx",
+      "complete": true,
+      "removeExpr": "",
+      "appendDateFormat": "",
+      "registerCommand": false,
+      "useContextMenu": true,
+      "collection": {
+        "areaHeading": "## Log",
+        "removeCheckbox": false
+      }
+    }
+  },
+  "markCycle": "",
+  "collectionEnabled": true,
+  "previewClickModal": false,
+  "contextMenu": {
+    "markTask": true,
+    "resetTask": true,
+    "collectTasks": false
+  },
+  "debug": false,
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 3
+  }
 }

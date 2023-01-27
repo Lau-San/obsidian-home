@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic/Weekly/2023/01 - January/2023-W04.md",
-                "mode": "preview",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic/Weekly/2023/01 - January/2023-W04.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic/Weekly/2023/01 - January/2023-W04.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,14 +125,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic/Weekly/2023/01 - January/2023-W04.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c3221eff5775c39e",
+            "id": "f92ff4a06a0c9fb8",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -170,14 +170,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today's daily note": false
+      "periodic-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "083c20fef7e47e9e",
   "lastOpenFiles": [
+    "Periodic/Weekly/2023/01 - January/2023-W04.md",
     "Periodic/Daily/2023/01 - January/2023-01-27.md",
     "Periodic/Daily/2023/01 - January/2023-01-25.md",
     "Periodic/Daily/2023/01 - January/2023-01-11.md",
@@ -186,7 +187,6 @@
     "Periodic/Daily/2023/01 - January/2023-01-14.md",
     "Periodic/Daily/2023/01 - January/2023-01-15.md",
     "Periodic/Daily/2023-01-14.md",
-    "Periodic/Daily/2023/01 - January/2023-01-16.md",
-    "Periodic/Daily/2023/01 - January/2023-01-17.md"
+    "Periodic/Daily/2023/01 - January/2023-01-16.md"
   ]
 }
