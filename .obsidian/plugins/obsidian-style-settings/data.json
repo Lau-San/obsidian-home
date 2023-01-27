@@ -6,5 +6,6 @@
   "things-style@@mobile-black-background": false,
   "minimal-advanced@@styled-scrollbars": true,
   "minimal-style@@workspace-background-translucent@@dark": "#FFFFFF33",
-  "minimal-style@@embed-strict": false
+  "minimal-style@@embed-strict": false,
+  "things-style@@no-codeblock-line-numbers": true
 }
