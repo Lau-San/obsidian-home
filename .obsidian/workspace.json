@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05ff2f407c5d6585",
+            "id": "0ab947ba4fc7ce66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,15 @@
             }
           },
           {
-            "id": "938dc8501fe7d484",
+            "id": "14f2a7a6b10abf1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/New Event.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "0ab947ba4fc7ce66",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -70,7 +62,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/New Event.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md"
               }
             }
           },
@@ -129,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/New Event.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/New Event.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "938dc8501fe7d484",
+  "active": "14f2a7a6b10abf1d",
   "lastOpenFiles": [
     "_templates/event.md",
     "Events/New Event.md",
