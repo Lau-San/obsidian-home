@@ -28,4 +28,5 @@ Birthday:: <% birthday %>
 # <% tp.file.title %>
 <% await tp.file.move("/People/" + tp.file.title) %>
 > [!info] Details
+> **Aliases**: `=this.aliases`
 > **Birthday**: `=this.birthday`
