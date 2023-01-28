@@ -40,6 +40,7 @@ const _with = await tp.system.suggester(people, people, placeholder = 'With')
 await tp.file.move('/Events/' + moment(date).format('YYYY/MM - MMMM/') + newFileTitle)
 %>
 %%
+Title:: <% title %>
 Date:: <% date %>
 Time:: <% time %>
 With:: [[<% _with %>]]

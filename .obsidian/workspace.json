@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/daily.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/daily.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-31.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/daily.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/daily.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,15 +177,15 @@
   },
   "active": "4a0ee5aa76d87020",
   "lastOpenFiles": [
+    "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
+    "_templates/event.md",
+    "Periodic/Daily/2023/01 - January/2023-01-31.md",
     "Periodic/Daily/2023/01 - January/2023-01-30.md",
+    "_templates/daily.md",
     "Periodic/Daily/2023/01 - January/2023-01-29.md",
     "Periodic/Daily/2023/01 - January/2023-01-27.md",
     "Periodic/Daily/2023/01 - January/2023-01-28.md",
-    "_templates/daily.md",
-    "_templates/event.md",
     "2023-01-31.md",
-    "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
-    "_templates/lineAlias.md",
-    "_templates/test.md"
+    "_templates/lineAlias.md"
   ]
 }
