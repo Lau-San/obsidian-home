@@ -52,3 +52,10 @@ templater true
 
 ### Email
 
+```button
+name Add email
+type append template
+action email
+templater true
+```
+^button-addEmail
