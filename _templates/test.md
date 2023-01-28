@@ -1,4 +1,9 @@
 <%*
 const files = app.vault.getMarkdownFiles()
-const people = 
+let people = []
+for (let f of files) {
+	if ()
+}
 %>
+
+<% people %>
