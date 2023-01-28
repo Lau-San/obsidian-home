@@ -45,7 +45,7 @@ for (let e of todayEvents) {
 }
 ```
 
-## Tasks
+## To Do
 
 ### Daily task review
 - [ ] Review today's tasks
