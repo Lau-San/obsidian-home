@@ -2,8 +2,6 @@
 obsidianEditingMode: live
 obsidianUIMode: preview
 aliases:
-  - Mom
-  - Mama
 ---
 <%*
 // Prompt for name
