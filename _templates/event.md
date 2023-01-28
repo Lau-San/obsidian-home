@@ -2,7 +2,6 @@
 obsidianEditingMode: live
 obsidianUIMode: preview
 ---
-<% await tp.file.move('/Events/' + tp.file.title) %>
 <%*
 // Prompt for event title
 const title = await tp.system.prompt('Title', 'New Event', true)
@@ -26,8 +25,11 @@ while(!isTimeValid(time)) {
 	time = await tp.system.prompt('Time was not valid. Format: "hh:mm a" (03:45 pm)', date)
 }
 
+// Move file to proper location
 await tp.file.move('/Events/' + moment(date).format('YYYY/MM - MMMM/') + newFileTitle)
 %>
+# <% title %>
+
 > [!info] Event Details
 > **Date**:: <% date %>
 > **Time**:: <% time %>

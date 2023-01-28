@@ -111,6 +111,32 @@
       "openFileInMode": "default"
     },
     {
+      "id": "33db93db-1d43-45ba-8727-6cd8bca547a5",
+      "name": "Template - New Person",
+      "type": "Template",
+      "command": true,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
       "id": "367ed838-b188-4b70-83f3-e91cd65703bb",
       "name": "Capture - Daily log",
       "type": "Capture",

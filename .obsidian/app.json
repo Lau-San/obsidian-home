@@ -1,5 +1,5 @@
 {
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "promptDelete": false,
   "vimMode": true,
   "useTab": true,
