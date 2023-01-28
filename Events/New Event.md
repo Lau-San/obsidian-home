@@ -1,7 +1,8 @@
-# Test title
+
+# Some event
 
 ## Event Details
 
-Date:: 
+Date:: [[Some date]]
 Time:: 
 With:: 
