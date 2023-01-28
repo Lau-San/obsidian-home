@@ -90,7 +90,7 @@
       "templatePath": "_templates/event.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{VALUE:date}} - {{VALUE:description}}"
+        "format": ""
       },
       "folder": {
         "enabled": true,
