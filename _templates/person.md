@@ -23,7 +23,7 @@ while(!isDateValid(birthday)) {
 }
 %>
 %%
-Birthday:: <% birthday %>
+Birthday:: <% moment(birthday).format('MMMM DD, YYYY') %>
 %%
 # <% tp.file.title %>
 <% await tp.file.move("/People/" + tp.file.title) %>

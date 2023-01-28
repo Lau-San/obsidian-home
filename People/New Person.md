@@ -3,12 +3,30 @@ obsidianEditingMode: live
 obsidianUIMode: preview
 aliases: 
 ---
+<%*
+// Prompt for name
+const name = await tp.system.prompt('Name', throw_on_cancel = true)
 
+// Prompt for birthday
+let birthday = await tp.system.prompt(
+	'Birthday. Format: "YYYY-MM-DD"',
+	tp.date.now('YYYY-MM-DD')
+)
+// Check if the birthday is in the correct format
+const isDateValid = (d) => moment(d, 'YYYY-MM-DD', true).isValid()
+// If date is invalid prompt again
+while(!isDateValid(birthday)) {
+	birthday = await tp.system.prompt(
+		'Birthday was not valid. Format: "YYYY-MM-DD"',
+		birthday
+	)
+}
+%>
 %%
-Birthday:: 1977-03-25
+Birthday:: <% moment(birthday).format('MMMM DD, YYYY') %>
 %%
-# New Person
-
+# <% tp.file.title %>
+<% await tp.file.move("/People/" + tp.file.title) %>
 ```button
 name Add alias
 type line(4) template

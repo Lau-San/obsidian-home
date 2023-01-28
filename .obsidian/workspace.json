@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "a98332bb26502d45",
+            "id": "4df3b0f931d940f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -61,7 +62,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/person.md"
+                "file": "People/New Person.md"
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/person.md",
+                "file": "People/New Person.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/person.md",
+                "file": "People/New Person.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,11 +188,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "35edb94118307a14",
+  "active": "4df3b0f931d940f4",
   "lastOpenFiles": [
+    "_templates/person.md",
     "People/New Person.md",
     "_templates/resource.md",
-    "_templates/person.md",
     "_templates/alias.md",
     "_templates/generic.md",
     "_templates/event.md",
