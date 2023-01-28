@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "024f07cdb767cd80",
+        "id": "9483ab0f0c7828e2",
         "type": "tabs",
         "children": [
           {
-            "id": "f97364d23a1af6ce",
+            "id": "4a0ee5aa76d87020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/person.md",
-                "mode": "source",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/person.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/person.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/person.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,14 +175,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f97364d23a1af6ce",
+  "active": "4a0ee5aa76d87020",
   "lastOpenFiles": [
-    "_templates/lineEmail.md",
+    "_templates/lineAlias.md",
     "_templates/person.md",
+    "_templates/lineEmail.md",
     "People/Jhon.md",
     "_templates/generic.md",
     "_templates/resource.md",
-    "_templates/alias.md",
     "_templates/event.md",
     "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
     "Events/2023/01 - January/2023-01-31 -- Watch List meeting.md",

@@ -41,7 +41,7 @@ Birthday:: <% moment(birthday).format('MMMM DD, YYYY') %>
 ```button
 name Add alias
 type line(5) template
-action alias
+action lineAlias
 templater true
 ```
 ^button-addAlias
@@ -56,7 +56,7 @@ templater true
 ```button
 name Add email
 type prepend template
-action email
+action lineEmail
 templater true
 ```
 ^button-addEmail

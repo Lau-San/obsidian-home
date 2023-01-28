@@ -13,5 +13,5 @@
   "refreshDataview": false,
   "autoCreate": false,
   "autoScroll": false,
-  "pin": false
+  "pin": true
 }
