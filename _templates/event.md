@@ -2,7 +2,6 @@
 <%*
 // Prompt for event title
 const title = await tp.system.prompt('Title', 'New Event', true)
-await tp.file.rename(title)
 
 // Prompt for date
 let date = await tp.system.prompt('Date (YYYY-MM-DD).', tp.date.now('YYYY-MM-DD'))
@@ -21,6 +20,9 @@ const isTimeValid = (t) => moment(t, 'hh:mm a', true).isValid()
 while(!isTimeValid(time)) {
 	time = await tp.system.prompt('Time was not valid. Format: "hh:mm a" (03:45 pm)', date)
 }
+
+tp.file.rename(date + ' - ' + title)
+await tp.file.move('/Events/' + moment(date).format('YYYY/MM - MMMM/') + tp.file.title)
 %>
 > [!info] Event Details
 > **Date**:: <% date %>
