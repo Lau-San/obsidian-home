@@ -1,8 +1,3 @@
----
-date:
-time:
-with:
----
 <% await tp.file.move('/Events/' + tp.file.title) %>
 <%*
 // Prompt for event title
@@ -16,4 +11,5 @@ while(!moment(date).isValid()) {
 	date = await tp.system.prompt('Date was not valid, try again (YYYY-MM-DD)', date)
 }
 %>
-## Event Details
+> [!info] Event Details
+> **Date**:: <% date %>

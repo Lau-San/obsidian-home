@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3dc30bf0b6769de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "stacked": true
@@ -178,15 +186,15 @@
   },
   "active": "6076c15e31c91477",
   "lastOpenFiles": [
-    "Events/New Event.md",
+    "People/Untitled.md",
     "_templates/event.md",
+    "Events/New Event.md",
     "Events/Watch List Meeting.md",
     "Events/My new event.md",
     "Events/asdasd - sadasd.md",
     "Events/Some date - Some event.md",
     "Events/null - null.md",
     "Events/Test date - Test title.md",
-    "Resources/Some resourse.md",
-    "Events/2023-01-31 - Some event.md"
+    "Resources/Some resourse.md"
   ]
 }
