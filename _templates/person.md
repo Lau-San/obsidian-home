@@ -15,7 +15,10 @@ let birthday = await tp.system.prompt(
 const isDateValid = (d) => moment(d, 'YYYY-MM-DD', true).isValid()
 // If date is invalid prompt again
 while(!isDateValid(birthday)) {
-	birthday = await tp.system.prompt('Birthday was not valid. Format: "YYYY-MM-DD"', birthday)
+	birthday = await tp.system.prompt(
+		'Birthday was not valid. Format: "YYYY-MM-DD"',
+		birthday
+	)
 }
 %>
 # <% tp.file.title %>
