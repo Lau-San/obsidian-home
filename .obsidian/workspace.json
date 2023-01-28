@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Periodic/Daily/2023/01 - January/2023-01-31.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -177,15 +177,15 @@
   },
   "active": "4a0ee5aa76d87020",
   "lastOpenFiles": [
+    "Events/2023/01 - January/2023-01-31 - test event.md",
+    "Periodic/Daily/2023/01 - January/2023-01-31.md",
     "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
     "_templates/event.md",
-    "Periodic/Daily/2023/01 - January/2023-01-31.md",
     "Periodic/Daily/2023/01 - January/2023-01-30.md",
     "_templates/daily.md",
     "Periodic/Daily/2023/01 - January/2023-01-29.md",
     "Periodic/Daily/2023/01 - January/2023-01-27.md",
     "Periodic/Daily/2023/01 - January/2023-01-28.md",
-    "2023-01-31.md",
-    "_templates/lineAlias.md"
+    "2023-01-31.md"
   ]
 }
