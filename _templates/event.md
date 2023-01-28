@@ -39,5 +39,3 @@ Time:: <% time %>
 > [!info] Event Details
 > **Date**: `=this.date`
 > **Time**: `=this.time`
-
-{{shell:ls}}
