@@ -14,19 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "_templates/event.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "788551afc5dd7773",
+            "id": "681ac837fb930760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/test.md",
-                "mode": "source",
+                "file": "Events/New Event.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -62,7 +62,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/test.md"
+                "file": "Events/New Event.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/test.md",
+                "file": "Events/New Event.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/test.md",
+                "file": "Events/New Event.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,17 +188,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "788551afc5dd7773",
+  "active": "681ac837fb930760",
   "lastOpenFiles": [
     "_templates/event.md",
+    "_templates/test.md",
+    "_templates/generic.md",
     "Periodic/Daily/2023/01 - January/2023-01-27.md",
     "Events/New Event.md",
     "People/Mario Sánchez.md",
     "People/Liliana Álvarez.md",
     "_templates/person.md",
     "_templates/lineEmail.md",
-    "_templates/lineAlias.md",
-    "People/Jhon.md",
-    "_templates/generic.md"
+    "_templates/lineAlias.md"
   ]
 }
