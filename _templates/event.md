@@ -1,11 +1,11 @@
-<%* const title = await tp.system.prompt('Title') %>
-# <% await title %>
+---
+date:
+time:
+with:
+---
 <% await tp.file.move('/Events/' + tp.file.title) %>
-## Event Details
 <%*
-const date = await tp.system.prompt('Date')
-tp.file.rename(date + ' - ' + title)
+const title = await tp.system.prompt('Title')
+await tp.file.rename(title)
 %>
-Date:: [[<% date %>]]
-Time:: 
-With:: 
+## Event Details

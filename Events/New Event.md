@@ -1,8 +1,0 @@
-
-# asdjasld
-
-## Event Details
-
-Date:: [[some date]]
-Time:: 
-With:: 
