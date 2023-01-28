@@ -2,6 +2,6 @@
 <% await tp.file.move('/Events/' + tp.file.title) %>
 ## Event Details
 
-Date:: 
+Date:: <%* const date = await tp.system.prompt('Date') %>
 Time:: 
 With:: 

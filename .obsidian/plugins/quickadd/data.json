@@ -89,7 +89,7 @@
       "command": true,
       "templatePath": "_templates/event.md",
       "fileNameFormat": {
-        "enabled": true,
+        "enabled": false,
         "format": ""
       },
       "folder": {
@@ -143,13 +143,6 @@
       },
       "openFile": false,
       "openFileInMode": "default"
-    },
-    {
-      "id": "8cc50072-a95b-4320-b551-7657208f00c7",
-      "name": "Test",
-      "type": "Macro",
-      "command": true,
-      "macroId": "04c3b1b7-c7a6-4b43-bc6e-392dd7c72fea"
     }
   ],
   "macros": [
