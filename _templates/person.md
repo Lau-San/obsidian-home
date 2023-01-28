@@ -1,7 +1,7 @@
 ---
 obsidianEditingMode: live
 obsidianUIMode: preview
-aliases: [Mom, Ma]
+alias: [Mom, Ma, Mother]
 ---
 <%*
 // Prompt for name
@@ -31,6 +31,7 @@ Birthday:: <% birthday %>
 const curr = dv.current()
 
 ```
+
 > [!info] Details
-> **Aliases**: `=this.aliases`
+> **Aliases**: `=this.alias`
 > **Birthday**: `=this.birthday`
