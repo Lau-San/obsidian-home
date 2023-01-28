@@ -23,8 +23,11 @@
     ]
   },
   "EditMode": {
-    "mode": "All Single",
-    "properties": []
+    "mode": "Some Multi",
+    "properties": [
+      "aliases",
+      ""
+    ]
   },
   "KanbanHelper": {
     "enabled": false,

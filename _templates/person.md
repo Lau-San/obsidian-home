@@ -1,6 +1,7 @@
 ---
 obsidianEditingMode: live
 obsidianUIMode: preview
+aliases: 
 ---
 <%*
 // Prompt for name
@@ -21,7 +22,10 @@ while(!isDateValid(birthday)) {
 	)
 }
 %>
+%%
+Birthday:: <% birthday %>
+%%
 # <% tp.file.title %>
 <% await tp.file.move("/People/" + tp.file.title) %>
 > [!info] Details
-> **Birthday**:: 
+> **Birthday**: `=this.birthday`
