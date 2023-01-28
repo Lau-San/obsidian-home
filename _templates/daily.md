@@ -54,13 +54,13 @@ for (let e of todayEvents) {
 
 ### Planned for today
 
-#### Tasks in other pages
-```dataviewjs
-dv.taskList(dv.pages().file.tasks
-	.where(t => !t.completed)
-	.where(t => t.text.includes("{{title}}"))
-)
+```button
+name Add task
+type prepend template
+action lineTask
+templater true
 ```
+^button-addTask
 
 ### Process this
 `dice: #process-me|link`
