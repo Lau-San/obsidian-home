@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/person.md",
+                "file": "People/person.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/person.md"
+                "file": "People/person.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/person.md",
+                "file": "People/person.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/person.md",
+                "file": "People/person.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,15 +177,15 @@
   },
   "active": "35edb94118307a14",
   "lastOpenFiles": [
+    "_templates/alias.md",
+    "People/person.md",
     "_templates/resource.md",
-    "_templates/person.md",
     "_templates/generic.md",
     "_templates/event.md",
     "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
     "Events/2023/01 - January/2023-01-31 -- Watch List meeting.md",
     "Events/2023/01 - January/New Event.md",
     "Software Architecture.md",
-    "Periodic/Daily/2023/01 - January/2023-01-27.md",
-    "People/Untitled.md"
+    "Periodic/Daily/2023/01 - January/2023-01-27.md"
   ]
 }

@@ -4,7 +4,7 @@
   "vimMode": true,
   "useTab": true,
   "alwaysUpdateLinks": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "spellcheck": false,
   "newFileLocation": "current",
   "tabSize": 4,

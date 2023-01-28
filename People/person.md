@@ -1,7 +1,7 @@
 ---
 obsidianEditingMode: live
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 <%*
 // Prompt for name
@@ -27,10 +27,6 @@ Birthday:: <% birthday %>
 %%
 # <% tp.file.title %>
 <% await tp.file.move("/People/" + tp.file.title) %>
-```dataviewjs
-const curr = dv.current()
-
-```
 
 > [!info] Details
 > **Aliases**: `=this.aliases`
