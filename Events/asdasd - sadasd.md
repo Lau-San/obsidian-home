@@ -3,7 +3,7 @@ date:
 time: 
 with: 
 ---
-
+<% await tp.file.move('/Events/' + tp.ile.title) %>
 <%*
 let title
 function changeTitle(newTitle) {
@@ -13,7 +13,6 @@ const date = await tp.system.prompt('Date')
 tp.file.rename(date + ' - ' + title)
 %>
 # <% tp.file.title %>
-<% await tp.file.move('/Events/' + tp.file.title) %>
 ## Event Details
 
 Date:: [[<% date %>]]
