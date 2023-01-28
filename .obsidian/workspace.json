@@ -20,7 +20,31 @@
             }
           },
           {
-            "id": "ccc88f54a94d0c56",
+            "id": "a49bfe1139db9172",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "28556d6d7b0b708c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ef724106fd0dbe0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "00f550bb7dc03657",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,15 +210,15 @@
   },
   "active": "6076c15e31c91477",
   "lastOpenFiles": [
-    "Events/My new event.md",
+    "Events/New Event.md",
     "_templates/event.md",
+    "Events/Watch List Meeting.md",
+    "Events/My new event.md",
     "Events/asdasd - sadasd.md",
     "Events/Some date - Some event.md",
     "Events/null - null.md",
     "Events/Test date - Test title.md",
     "Resources/Some resourse.md",
-    "Events/2023-01-31 - Some event.md",
-    "Events/some date - some event.md",
-    "Events/2022-02-20 - Some event.md"
+    "Events/2023-01-31 - Some event.md"
   ]
 }
