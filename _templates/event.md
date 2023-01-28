@@ -10,6 +10,8 @@ let date = await tp.system.prompt('Date (YYYY-MM-DD)', tp.date.now('YYYY-MM-DD')
 while(!moment(date).isValid()) {
 	date = await tp.system.prompt('Date was not valid, try again (YYYY-MM-DD)', date)
 }
+
+let time = await tp.system.prompt('Time (hh:mm)', tp.date.now('hh:mm'))
 %>
 > [!info] Event Details
 > **Date**:: <% date %>
