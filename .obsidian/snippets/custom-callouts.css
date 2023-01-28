@@ -1,0 +1,4 @@
+.callout[data-callout="event"] {
+    --callout-color: 255, 0, 0;
+    --callout-icon: calendar;
+}

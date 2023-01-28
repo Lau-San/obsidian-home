@@ -9,6 +9,8 @@
   "nativeMenus": false,
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "simple-task-alert-eventide"
+    "simple-task-alert-eventide",
+    "supercharged-links-gen",
+    "custom-callouts"
   ]
 }
