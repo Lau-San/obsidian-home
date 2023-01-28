@@ -1,3 +1,7 @@
+---
+obsidianEditingMode: live
+obsidianUIMode: preview
+---
 <% await tp.file.move('/Events/' + tp.file.title) %>
 <%*
 // Prompt for event title
@@ -21,7 +25,7 @@ while(!isTimeValid(time)) {
 	time = await tp.system.prompt('Time was not valid. Format: "hh:mm a" (03:45 pm)', date)
 }
 
-tp.file.rename(date + ' - ' + title)
+await tp.file.rename(date + ' - ' + title)
 await tp.file.move('/Events/' + moment(date).format('YYYY/MM - MMMM/') + tp.file.title)
 %>
 > [!info] Event Details
