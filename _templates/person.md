@@ -1,7 +1,10 @@
 ---
 obsidianEditingMode: live
 obsidianUIMode: preview
-aliases: [Mom, Ma, Mother, Mum]
+aliases:
+  - Mother
+  - Ma
+  - Mama
 ---
 <%*
 // Prompt for name
@@ -35,3 +38,5 @@ const curr = dv.current()
 > [!info] Details
 > **Aliases**: `=this.file.aliases`
 > **Birthday**: `=this.birthday`
+
+Aliases: `= this.file.aliases`
