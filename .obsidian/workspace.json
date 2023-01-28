@@ -10,13 +10,15 @@
           {
             "id": "d75d4d4cf4e92688",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Periodic/Daily/2023/01 - January/2023-01-28.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
