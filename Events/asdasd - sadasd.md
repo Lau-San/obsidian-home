@@ -7,7 +7,6 @@ with:
 <%*
 const title = await tp.system.prompt('Title')
 %>
-# <% tp.file.title %>
 
 ## Event Details
 
