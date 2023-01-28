@@ -20,15 +20,23 @@
             }
           },
           {
-            "id": "8831145ee28bb586",
+            "id": "284b8737c02ce3ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Some date - Some event.md",
+                "file": "Events/asdasd - sadasd.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "8831145ee28bb586",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -62,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Some date - Some event.md"
+                "file": "Events/asdasd - sadasd.md"
               }
             }
           },
@@ -121,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Some date - Some event.md",
+                "file": "Events/asdasd - sadasd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Some date - Some event.md",
+                "file": "Events/asdasd - sadasd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +197,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8831145ee28bb586",
+  "active": "284b8737c02ce3ca",
   "lastOpenFiles": [
     "_templates/event.md",
+    "Events/Some date - Some event.md",
     "Events/null - null.md",
     "Events/Test date - Test title.md",
     "Resources/Some resourse.md",
@@ -199,7 +208,6 @@
     "Events/some date - some event.md",
     "Events/2022-02-20 - Some event.md",
     "Periodic/Daily/2023/01 - January/2023-01-27.md",
-    "Periodic/Weekly/2023/01 - January/2023-W03.md",
-    "Periodic/Weekly/2023/01 - January/2023-W04.md"
+    "Periodic/Weekly/2023/01 - January/2023-W03.md"
   ]
 }

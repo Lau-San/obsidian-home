@@ -1,5 +1,5 @@
 <%* const title = await tp.system.prompt('Title') %>
-# <% title %>
+# <% await title %>
 <% await tp.file.move('/Events/' + tp.file.title) %>
 ## Event Details
 <%*

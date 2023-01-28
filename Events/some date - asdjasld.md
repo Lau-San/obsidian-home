@@ -1,8 +1,8 @@
 
-# asdjasld
+# sadasd
 
 ## Event Details
 
-Date:: [[some date]]
+Date:: [[asdasd]]
 Time:: 
 With:: 
