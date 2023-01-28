@@ -3,7 +3,7 @@ date:
 time: 
 with: 
 ---
-<% await tp.file.move('/Events/' + tp.ile.title) %>
+<% await tp.file.move('/Events/' + tp.file.title) %>
 <%*
 let title
 function changeTitle(newTitle) {
