@@ -1,6 +1,8 @@
 ---
 obsidianEditingMode: live
 obsidianUIMode: preview
+tags:
+  - people
 ---
 <%*
 // Prompt for event title
