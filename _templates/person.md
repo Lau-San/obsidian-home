@@ -1,7 +1,7 @@
 ---
 obsidianEditingMode: live
 obsidianUIMode: preview
-alias: [Mom, Ma, Mother]
+aliases: [Mom, Ma, Mother, Mum]
 ---
 <%*
 // Prompt for name
@@ -23,7 +23,7 @@ while(!isDateValid(birthday)) {
 }
 %>
 %%
-Birthday:: <% birthday %>
+Birthday:: 2023
 %%
 # <% tp.file.title %>
 <% await tp.file.move("/People/" + tp.file.title) %>
@@ -33,5 +33,5 @@ const curr = dv.current()
 ```
 
 > [!info] Details
-> **Aliases**: `=this.alias`
+> **Aliases**: `=this.file.aliases`
 > **Birthday**: `=this.birthday`

@@ -177,15 +177,15 @@
   },
   "active": "35edb94118307a14",
   "lastOpenFiles": [
-    "_templates/event.md",
+    "_templates/resource.md",
     "_templates/person.md",
+    "_templates/generic.md",
+    "_templates/event.md",
     "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
     "Events/2023/01 - January/2023-01-31 -- Watch List meeting.md",
     "Events/2023/01 - January/New Event.md",
     "Software Architecture.md",
-    "_templates/resource.md",
     "Periodic/Daily/2023/01 - January/2023-01-27.md",
-    "People/Untitled.md",
-    "Events/Watch List Meeting.md"
+    "People/Untitled.md"
   ]
 }
