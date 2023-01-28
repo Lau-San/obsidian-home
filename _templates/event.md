@@ -34,3 +34,4 @@ Date::
 # <% title %>
 
 > [!info] Event Details
+

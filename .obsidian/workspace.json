@@ -138,8 +138,17 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "0d01470b6b36f2f7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "36843e321d88c25b",
@@ -158,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +184,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "35edb94118307a14",
+  "active": "0d01470b6b36f2f7",
   "lastOpenFiles": [
     "_templates/person.md",
     "_templates/event.md",
