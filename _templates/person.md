@@ -1,7 +1,7 @@
 ---
 obsidianEditingMode: live
 obsidianUIMode: preview
-aliases: Mooom
+aliases: Ma
 ---
 <%*
 // Prompt for name
@@ -35,5 +35,5 @@ templater true
 ```
 ^button-addAlias
 > [!info] Details
-> **Aliases**: `=this.aliases`
-> **Birthday**: `=this.birthday`
+> **Aliases**: `$= dv.current().file.aliases`
+> **Birthday**: `$= dv.current().birthday`
