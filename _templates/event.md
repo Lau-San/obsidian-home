@@ -28,8 +28,9 @@ while(!isTimeValid(time)) {
 // Move file to proper location
 await tp.file.move('/Events/' + moment(date).format('YYYY/MM - MMMM/') + newFileTitle)
 %>
+%%
+Date:: 
+%%
 # <% title %>
 
 > [!info] Event Details
-> **Date**:: <% date %>
-> **Time**:: <% time %>
