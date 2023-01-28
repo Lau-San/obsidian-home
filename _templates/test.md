@@ -2,8 +2,12 @@
 const files = app.vault.getMarkdownFiles()
 let people = []
 for (let f of files) {
-	if ()
+	if (f.path.startsWith('People')) {
+		people.push(f.basename)
+	}
 }
+
+const w = await tp.system.suggester(people)
 %>
 
-<% people %>
+<% w %>
