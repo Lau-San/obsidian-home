@@ -2,14 +2,14 @@
 obsidianEditingMode: live
 obsidianUIMode: preview
 aliases: 
-  - Dad
+  - Mom
 ---
 
 %%
-Birthday:: March 25, 1977
+Birthday:: March 12, 1981
 %%
 
-# Mario Sánchez
+# Liliana Álvarez
 
 **AKA**: `$= dv.current().aliases`
 ```button
@@ -21,7 +21,7 @@ templater true
 ^button-addAlias
 
 > [!abstract] Details
-> **Birthday**: `$= dv.current()['Birthday']`
+> **Birthday**: `$= dv.current().birthday`
 
 ## Contact
 
