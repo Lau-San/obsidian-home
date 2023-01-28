@@ -89,8 +89,8 @@
       "command": true,
       "templatePath": "_templates/event.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "New Event"
       },
       "folder": {
         "enabled": true,
