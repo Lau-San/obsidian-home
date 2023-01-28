@@ -45,7 +45,7 @@ templater true
 ```
 ^button-addAlias
 
-> [!info] Details
+> [!abstract] Details
 > **Birthday**: `$= dv.current().birthday`
 
 ## Contact
