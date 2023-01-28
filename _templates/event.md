@@ -22,7 +22,7 @@ let time = await tp.system.prompt('Time (hh:mm a). eg: 03:45 pm', tp.date.now('h
 const isTimeValid = (t) => moment(t, 'hh:mm a', true).isValid()
 // If date is invalid prompt again
 while(!isTimeValid(time)) {
-	time = await tp.system.prompt('Time was not valid. Format: "hh:mm a" (03:45 pm)', date)
+	time = await tp.system.prompt('Time was not valid. Format: "hh:mm a" (03:45 pm)', time)
 }
 
 // Move file to proper location

@@ -115,14 +115,16 @@
       "name": "Template - New Person",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "_templates/person.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "New Person"
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "People"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -133,7 +135,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default"
     },
     {
