@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6957f7a10646147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Mario Sánchez.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +62,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md"
+                "file": "People/Mario Sánchez.md"
               }
             }
           },
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
+                "file": "People/Mario Sánchez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-27.md",
+                "file": "People/Mario Sánchez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +188,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4a0ee5aa76d87020",
+  "active": "f6957f7a10646147",
   "lastOpenFiles": [
+    "Periodic/Daily/2023/01 - January/2023-01-27.md",
     "_templates/lineAlias.md",
     "_templates/person.md",
     "_templates/lineEmail.md",
@@ -185,7 +199,6 @@
     "_templates/resource.md",
     "_templates/event.md",
     "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
-    "Events/2023/01 - January/2023-01-31 -- Watch List meeting.md",
-    "Events/2023/01 - January/New Event.md"
+    "Events/2023/01 - January/2023-01-31 -- Watch List meeting.md"
   ]
 }
