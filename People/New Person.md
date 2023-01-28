@@ -5,7 +5,7 @@ aliases:
 ---
 <%*
 // Prompt for name
-const name = tp.system.prompt('Name', throw_on_cancel = true)
+const name = await tp.system.prompt('Name', throw_on_cancel = true)
 
 // Prompt for birthday
 let birthday = await tp.system.prompt(
@@ -27,7 +27,13 @@ Birthday:: <% birthday %>
 %%
 # <% tp.file.title %>
 <% await tp.file.move("/People/" + tp.file.title) %>
-
+```button
+name Add alias
+type line(4) template
+action alias
+templater true
+```
+^button-addAlias
 > [!info] Details
 > **Aliases**: `=this.aliases`
 > **Birthday**: `=this.birthday`
