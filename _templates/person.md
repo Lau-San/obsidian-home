@@ -23,3 +23,5 @@ while(!isDateValid(birthday)) {
 %>
 # <% tp.file.title %>
 <% await tp.file.move("/People/" + tp.file.title) %>
+> [!info] Details
+> **Birthday**:: 
