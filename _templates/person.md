@@ -3,7 +3,8 @@ obsidianEditingMode: live
 obsidianUIMode: preview
 aliases: Ma
 ---
-<%*
+
+<%*_
 // Prompt for name
 const name = await tp.system.prompt('Name', throw_on_cancel = true)
 
@@ -26,10 +27,10 @@ function getAge() {
 	const now = moment(tp.date.now('YYYY-MM-DD'), 'YYYY-MM-DD')
 	return now.diff(birthday, 'years')
 }
-%>
+_%>
+
 %%
 Birthday:: <% moment(birthday).format('MMMM DD, YYYY') %>
-Age:: <%+ birthday %>
 %%
 # <% tp.file.title %>
 <% await tp.file.move("/People/" + tp.file.title) %>
