@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/New Event.md",
+                "file": "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
                 "mode": "preview",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/New Event.md"
+                "file": "Events/2023/01 - January/2023-01-31 - WatchList meeting.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/New Event.md",
+                "file": "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/New Event.md",
+                "file": "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,15 +190,15 @@
   },
   "active": "681ac837fb930760",
   "lastOpenFiles": [
+    "_templates/lineAlias.md",
+    "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
     "_templates/event.md",
     "_templates/test.md",
     "_templates/generic.md",
     "Periodic/Daily/2023/01 - January/2023-01-27.md",
-    "Events/New Event.md",
     "People/Mario Sánchez.md",
     "People/Liliana Álvarez.md",
     "_templates/person.md",
-    "_templates/lineEmail.md",
-    "_templates/lineAlias.md"
+    "_templates/lineEmail.md"
   ]
 }
