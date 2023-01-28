@@ -29,7 +29,7 @@ Birthday:: <% moment(birthday).format('MMMM DD, YYYY') %>
 <% await tp.file.move("/People/" + tp.file.title) %>
 ```button
 name Add alias
-type line(4) template
+type line(5) template
 action alias
 templater true
 ```
