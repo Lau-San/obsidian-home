@@ -21,9 +21,15 @@ while(!isDateValid(birthday)) {
 		birthday
 	)
 }
+
+function getAge() {
+	const now = moment(tp.date.now('YYYY-MM-DD'), 'YYYY-MM-DD')
+	return now.subtract()
+}
 %>
 %%
 Birthday:: <% moment(birthday).format('MMMM DD, YYYY') %>
+Age:: <%+  %>
 %%
 # <% tp.file.title %>
 <% await tp.file.move("/People/" + tp.file.title) %>
