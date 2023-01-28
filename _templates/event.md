@@ -7,6 +7,6 @@ with:
 <%*
 const title = await tp.system.prompt('Title', 'New Event', true)
 await tp.file.rename(title)
-let date = await tp.system.prompt('Date')
+let date = await tp.system.prompt('Date (YYYY-MM-DD)' tp.date.now('YYYY-MM-DD'))
 %>
 ## Event Details
