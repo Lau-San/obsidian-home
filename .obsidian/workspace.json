@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/New Person.md"
+                "file": "_templates/person.md"
               }
             }
           },
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/New Person.md",
+                "file": "_templates/person.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/New Person.md",
+                "file": "_templates/person.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,12 +187,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a98332bb26502d45",
+  "active": "35edb94118307a14",
   "lastOpenFiles": [
-    "_templates/person.md",
     "People/New Person.md",
-    "_templates/alias.md",
     "_templates/resource.md",
+    "_templates/person.md",
+    "_templates/alias.md",
     "_templates/generic.md",
     "_templates/event.md",
     "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
