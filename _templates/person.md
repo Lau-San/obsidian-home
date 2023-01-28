@@ -1,10 +1,10 @@
 ---
 obsidianEditingMode: live
 obsidianUIMode: preview
-aliases: Ma
+aliases: 
 ---
 
-<%*_
+<%-*
 // Prompt for name
 const name = await tp.system.prompt('Name', throw_on_cancel = true)
 
@@ -27,13 +27,16 @@ function getAge() {
 	const now = moment(tp.date.now('YYYY-MM-DD'), 'YYYY-MM-DD')
 	return now.diff(birthday, 'years')
 }
-_%>
+-%>
 
 %%
 Birthday:: <% moment(birthday).format('MMMM DD, YYYY') %>
 %%
+
 # <% tp.file.title %>
-<% await tp.file.move("/People/" + tp.file.title) %>
+<% await tp.file.move("/People/" + tp.file.title) _%>
+
+**AKA**: `$= dv.current().aliases`
 ```button
 name Add alias
 type line(5) template
@@ -41,6 +44,11 @@ action alias
 templater true
 ```
 ^button-addAlias
+
 > [!info] Details
-> **Aliases**: `$= dv.current().file.aliases`
 > **Birthday**: `$= dv.current().birthday`
+
+## Contact
+
+### Email
+
