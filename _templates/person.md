@@ -1,7 +1,7 @@
 ---
 obsidianEditingMode: live
 obsidianUIMode: preview
-aliases: 
+aliases: Mooom
 ---
 <%*
 // Prompt for name
