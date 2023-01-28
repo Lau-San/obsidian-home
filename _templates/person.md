@@ -27,14 +27,15 @@ function getAge() {
 	const now = moment(tp.date.now('YYYY-MM-DD'), 'YYYY-MM-DD')
 	return now.diff(birthday, 'years')
 }
+
+await tp.file.move('/People/' + name)
 -%>
 
 %%
 Birthday:: <% moment(birthday).format('MMMM DD, YYYY') %>
 %%
 
-# <% tp.file.title %>
-<% await tp.file.move("/People/" + tp.file.title) _%>
+# <% name %>
 
 **AKA**: `$= dv.current().aliases`
 ```button
@@ -54,7 +55,7 @@ templater true
 
 ```button
 name Add email
-type append template
+type prepend template
 action email
 templater true
 ```
