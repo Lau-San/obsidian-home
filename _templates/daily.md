@@ -77,11 +77,4 @@ LIST
 FROM {{date:YYYY-MM-DD}} TO {{date:YYYY-MM-DD}}
 ```
 
-### Notes I worked on
-
-```dataview
-LIST FROM "/" AND -"Daily"
-WHERE contains(date, this.file.name) OR contains(date, this.file.link)
-```
-
 ## Log
