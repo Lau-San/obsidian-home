@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "60c4ce3c4122c1c4",
+        "id": "ab841902e7dcdcae",
         "type": "tabs",
         "children": [
           {
-            "id": "d75d4d4cf4e92688",
+            "id": "212428a8c9056bad",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-28.md",
-                "mode": "preview",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "39f080dbca3b9053",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0859fce9106b1a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md",
-                "mode": "preview",
-                "source": false
-              }
             }
           }
         ]
@@ -68,7 +50,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-28.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md"
               }
             }
           },
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-28.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-28.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +179,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d75d4d4cf4e92688",
+  "active": "212428a8c9056bad",
   "lastOpenFiles": [
     "Periodic/Daily/2023/01 - January/2023-01-29.md",
     "Periodic/Daily/2023/01 - January/2023-01-28.md",
