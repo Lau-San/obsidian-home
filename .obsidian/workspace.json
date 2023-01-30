@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md",
-                "mode": "source",
+                "file": "Periodic/Weekly/2023/2023-W04.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -32,7 +32,7 @@
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md"
+                "file": "Periodic/Weekly/2023/2023-W05.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md",
+                "file": "Periodic/Weekly/2023/2023-W05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md",
+                "file": "Periodic/Weekly/2023/2023-W05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,17 +189,17 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "f7f24afc94469407",
+  "active": "f857090b1d51d0c2",
   "lastOpenFiles": [
-    "Periodic/Weekly/2023/2023-W05.md",
-    "Periodic/Daily/2023/01 - January/2023-01-30.md",
+    "Periodic/Weekly/2023/2023-W04.md",
     "Periodic/Daily/2023/01 - January/2023-01-29.md",
-    "_templates/daily.md",
+    "Periodic/Weekly/2023/2023-W05.md",
     "_templates/weekly.md",
+    "Periodic/Daily/2023/01 - January/2023-01-30.md",
+    "_templates/daily.md",
     "Periodic/Daily/2023/01 - January/2023-01-21.md",
     "Periodic/Daily/2023/01 - January/2023-01-20.md",
     "Periodic/Daily/2023/01 - January/2023-01-19.md",
-    "Periodic/Daily/2023/01 - January/2023-01-18.md",
-    "Periodic/Daily/2023/01 - January/2023-01-17.md"
+    "Periodic/Daily/2023/01 - January/2023-01-18.md"
   ]
 }

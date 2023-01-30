@@ -10,6 +10,13 @@ type: weekly
 <% await tp.file.move('/Periodic/Weekly/' + tp.date.now('YYYY/MM - MMMM/') + tp.file.title) %>
 ## Tasks
 
+```button
+name Add task
+type prepend template
+action lineTask
+templater true
+```
+^button-addTask
 
 ## How I spent my time
 
