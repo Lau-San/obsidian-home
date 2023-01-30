@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "212428a8c9056bad",
+            "id": "f7f24afc94469407",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md",
-                "mode": "preview",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-30.md",
+                "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -50,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-30.md"
               }
             }
           },
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic/Daily/2023/01 - January/2023-01-29.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,12 +172,12 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today's daily note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "212428a8c9056bad",
+  "active": "f7f24afc94469407",
   "lastOpenFiles": [
     "Periodic/Daily/2023/01 - January/2023-01-29.md",
     "Periodic/Daily/2023/01 - January/2023-01-28.md",
