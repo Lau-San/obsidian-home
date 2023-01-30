@@ -32,7 +32,8 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -82,12 +83,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#readwise/articles",
+                "query": "tag:#linux/scripts",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           }
@@ -191,11 +192,11 @@
   },
   "active": "f857090b1d51d0c2",
   "lastOpenFiles": [
+    "Periodic/Daily/2023/01 - January/2023-01-30.md",
+    "Periodic/Weekly/2023/2023-W05.md",
     "Periodic/Weekly/2023/2023-W04.md",
     "Periodic/Daily/2023/01 - January/2023-01-29.md",
-    "Periodic/Weekly/2023/2023-W05.md",
     "_templates/weekly.md",
-    "Periodic/Daily/2023/01 - January/2023-01-30.md",
     "_templates/daily.md",
     "Periodic/Daily/2023/01 - January/2023-01-21.md",
     "Periodic/Daily/2023/01 - January/2023-01-20.md",

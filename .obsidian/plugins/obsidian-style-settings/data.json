@@ -7,7 +7,8 @@
   "minimal-advanced@@styled-scrollbars": true,
   "minimal-style@@workspace-background-translucent@@dark": "#FFFFFF33",
   "minimal-style@@embed-strict": false,
-  "things-style@@no-codeblock-line-numbers": true,
+  "things-style@@no-codeblock-line-numbers": false,
   "shimmering-focus@@show-ribbon": true,
-  "obsidian-prism-theme@@pt-disable-blur": false
+  "obsidian-prism-theme@@pt-disable-blur": false,
+  "things-style@@default-font-color": false
 }
