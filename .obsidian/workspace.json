@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7f24afc94469407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Periodic/Weekly/2023/2023-W04.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f857090b1d51d0c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic/Weekly/2023/2023-W05.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-30.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic/Weekly/2023/2023-W05.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-30.md"
               }
             }
           },
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic/Weekly/2023/2023-W05.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic/Weekly/2023/2023-W05.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +179,8 @@
   },
   "active": "f857090b1d51d0c2",
   "lastOpenFiles": [
-    "Periodic/Daily/2023/01 - January/2023-01-30.md",
     "Periodic/Weekly/2023/2023-W05.md",
+    "Periodic/Daily/2023/01 - January/2023-01-30.md",
     "Periodic/Weekly/2023/2023-W04.md",
     "Periodic/Daily/2023/01 - January/2023-01-29.md",
     "_templates/weekly.md",
