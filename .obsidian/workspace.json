@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Periodic/Daily/2023/01 - January/2023-01-30.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "3016f689372c118b",
@@ -179,6 +178,8 @@
   },
   "active": "f7f24afc94469407",
   "lastOpenFiles": [
+    "Periodic/Weekly/2023/01 - January/2023-W05.md",
+    "Periodic/Daily/2023/01 - January/2023-01-30.md",
     "Periodic/Daily/2023/01 - January/2023-01-29.md",
     "Periodic/Daily/2023/01 - January/2023-01-28.md",
     "Periodic/Weekly/2023/01 - January/2023-W04.md",
@@ -186,8 +187,6 @@
     "Periodic/Daily/2023/01 - January/2023-01-03.md",
     "Periodic/Daily/2023/01 - January/2023-01-04.md",
     "Periodic/Daily/2023/01 - January/2023-01-05.md",
-    "Periodic/Daily/2023/01 - January/2023-01-06.md",
-    "Periodic/Daily/2023/01 - January/2023-01-07.md",
-    "Periodic/Daily/2023/01 - January/2023-01-15.md"
+    "Periodic/Daily/2023/01 - January/2023-01-06.md"
   ]
 }
