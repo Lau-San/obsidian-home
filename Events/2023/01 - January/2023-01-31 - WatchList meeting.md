@@ -7,7 +7,7 @@ tags:
 
 %%
 Title:: WatchList meeting
-Date:: 2023-01-31
+Date:: 2023-02-01
 Time:: 03:30 pm
 With:: [[Mario Sánchez]]
 %%
