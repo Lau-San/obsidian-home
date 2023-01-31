@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf51ec7392060819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Periodic/Daily/2023/01 - January/2023-01-31.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -62,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic/Weekly/2023/2023-W05.md"
+                "file": "Periodic/Daily/2023/01 - January/2023-01-31.md"
               }
             }
           },
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic/Weekly/2023/2023-W05.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic/Weekly/2023/2023-W05.md",
+                "file": "Periodic/Daily/2023/01 - January/2023-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,17 +203,17 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "80e79b279ccde189",
+  "active": "cf51ec7392060819",
   "lastOpenFiles": [
-    "Periodic/Daily/2023/01 - January/2023-01-30.md",
     "Periodic/Weekly/2023/2023-W05.md",
+    "Events/2023/01 - January/2023-01-31 - WatchList meeting.md",
+    "Periodic/Daily/2023/01 - January/2023-01-31.md",
+    "Periodic/Daily/2023/01 - January/2023-01-30.md",
     "Periodic/Daily/2023/01 - January/2023-01-29.md",
     "Periodic/Daily/2023/01 - January/2023-01-27.md",
     "Periodic/Daily/2023/01 - January/2023-01-28.md",
     "Periodic/Weekly/2023/2023-W04.md",
     "_templates/weekly.md",
-    "_templates/daily.md",
-    "Periodic/Daily/2023/01 - January/2023-01-21.md",
-    "Periodic/Daily/2023/01 - January/2023-01-20.md"
+    "_templates/daily.md"
   ]
 }
