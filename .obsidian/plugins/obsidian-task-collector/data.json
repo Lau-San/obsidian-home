@@ -2,7 +2,7 @@
   "groups": {
     "default": {
       "name": "default",
-      "marks": " !/<>Ddpu",
+      "marks": " !*/<>Ddipu",
       "complete": false,
       "removeExpr": "",
       "appendDateFormat": "",
