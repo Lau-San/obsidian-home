@@ -21,4 +21,15 @@ date:: [[2023-02-01]]
 
 ### 5 principios de la motivación
 
-- La motivación es un proceso de administración de energía
+#### La motivación es un proceso de administración de energía
+
+Administramos la motivación cuando:
+
+- Aceptamos que es finita
+- Consideramos su gasto en distintas tareas
+- Buscamos formas de economizarla
+- Entendemos los efectos del contexto en ella
+- Encontramos actividades que la reabastesca
+
+#### La motivación requiere reabastecimiento
+
