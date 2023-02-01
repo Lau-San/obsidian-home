@@ -88,3 +88,7 @@ Teniendo en cuenta todo lo anterior es posible controlar nuestra motivación a n
 #### Cosas que pueden alterar las funciones ejecutivas
 
 ![[platzi-eplpylo-12-cosas-que-alteran-las-funciones-ejecutivas.png]]
+
+#### Tarea
+
+![[platzi-eplpylo-13-tarea-01.png]]
