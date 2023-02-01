@@ -28,3 +28,43 @@ date:: [[2023-02-01]]
 #### La motivación requiere reabastecimiento
 
 ![[platzy-eplpylo-01-estimulos-que-reabastecen-la-motización.png]]
+
+#### La motivación es hedonista
+
+- el cerebro constantemente busca placer.
+
+#### La motivación es egoísta
+
+![[platzi-eplpylo-03-impulsos-motivacionales.png]]
+
+- **Acercamiento**: Motivación para hacer algo.
+- **Alejamiento**: Motivación para dejar de hacer algo que no es interesante.
+
+> La motivación no es una cuestión de "fuerza de voluntad"
+
+Tener ganas o deseos de hacer algo no significa que se tiene la motivación para hacerlo.
+
+#### Podemos aprender a fabricar nuestra motivación
+
+Teniendo en cuenta todo lo anterior es posible controlar nuestra motivación a nuestro favor.
+
+### Functiones ejecutivas y donde encontrarlas
+
+> [!info] ¿Qué son la funciones ejecutivas?
+> Las capacidades cognitivas necesarias para completar una tarea y para supervisar o autoregular la conducta.
+
+![[platzi-eplpylo-04-elementos-de-una-tarea.png]]
+
+#### Funciones ejecutivas
+
+##### Flexibilidad cognitiva
+
+![[platzi-eplpylo-05-flexibilidad-cognitiva.png]]
+
+##### Inhibición
+
+![[platzi-eplpylo-06-inhibicion.png]]
+
+##### Monitorización
+
+![[platzi-eplpylo-07-monitorizacion.png]]
