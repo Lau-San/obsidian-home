@@ -68,3 +68,23 @@ Teniendo en cuenta todo lo anterior es posible controlar nuestra motivación a n
 ##### Monitorización
 
 ![[platzi-eplpylo-07-monitorizacion.png]]
+
+##### Planificación
+
+![[platzi-eplpylo-08-planificacion.png]]
+
+##### Memoria de trabajo
+
+![[platzi-eplpylo-09-memoria-de-trabajo.png]]
+
+##### Toma de decisiones
+
+![[platzi-eplpylo-10-toma-de-decisiones.png]]
+
+##### Resolución de problemas
+
+![[platzi-eplpylo-11-resolución-de-problemas.png]]
+
+#### Cosas que pueden alterar las funciones ejecutivas
+
+![[platzi-eplpylo-12-cosas-que-alteran-las-funciones-ejecutivas.png]]
