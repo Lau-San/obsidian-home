@@ -93,6 +93,7 @@ Teniendo en cuenta todo lo anterior es posible controlar nuestra motivación a n
 
 ![[platzi-eplpylo-13-tarea-01.png]]
 
-| Tarea                               | Función ejecutiva | Factor de alteración                                     | Acción | Evaluación |
-| ----------------------------------- | ----------------- | -------------------------------------------------------- | ------ | ---------- |
-| Escribir documentación de WatchList | Inhibición        | No lo encuentro interesante y prefiero hacer otras cosas |        |            |
+| Tarea                               | Función ejecutiva | Factor de alteración                                     | Acción                                 | Evaluación |
+| ----------------------------------- | ----------------- | -------------------------------------------------------- | -------------------------------------- | ---------- |
+| Escribir documentación de WatchList | Inhibición        | No lo encuentro interesante y prefiero hacer otras cosas | Ver videos relacionados para motivarme |            |
+|                                     |                   |                                                          |                                        |            |
