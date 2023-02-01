@@ -92,3 +92,7 @@ Teniendo en cuenta todo lo anterior es posible controlar nuestra motivación a n
 #### Tarea
 
 ![[platzi-eplpylo-13-tarea-01.png]]
+
+| Tarea | Función ejecutiva | Factor de alteración | Acción | Evaluación |
+| ----- | ----------------- | -------------------- | ------ | ---------- |
+|       |                   |                      |        |            |
