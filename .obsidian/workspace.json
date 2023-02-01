@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Curso de Estrategias para la Productividad y la Organización - Platzi.md",
-                "mode": "source",
+                "file": "Periodic/Daily/2023/02 - February/2023-02-01.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Curso de Estrategias para la Productividad y la Organización - Platzi.md"
+                "file": "Periodic/Daily/2023/02 - February/2023-02-01.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Curso de Estrategias para la Productividad y la Organización - Platzi.md",
+                "file": "Periodic/Daily/2023/02 - February/2023-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Curso de Estrategias para la Productividad y la Organización - Platzi.md",
+                "file": "Periodic/Daily/2023/02 - February/2023-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,7 @@
   },
   "active": "52b1f630ca07bb5e",
   "lastOpenFiles": [
+    "Resources/Curso de Estrategias para la Productividad y la Organización - Platzi.md",
     "Periodic/Daily/2023/02 - February/2023-02-01.md",
     "Periodic/Daily/2023/01 - January/2023-01-31.md",
     "Periodic/Weekly/2023/2023-W05.md",
@@ -189,7 +190,6 @@
     "Periodic/Daily/2023/01 - January/2023-01-29.md",
     "Periodic/Daily/2023/01 - January/2023-01-27.md",
     "Periodic/Daily/2023/01 - January/2023-01-28.md",
-    "Periodic/Weekly/2023/2023-W04.md",
-    "_templates/weekly.md"
+    "Periodic/Weekly/2023/2023-W04.md"
   ]
 }
