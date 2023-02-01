@@ -23,13 +23,8 @@ date:: [[2023-02-01]]
 
 #### La motivación es un proceso de administración de energía
 
-Administramos la motivación cuando:
-
-- Aceptamos que es finita
-- Consideramos su gasto en distintas tareas
-- Buscamos formas de economizarla
-- Entendemos los efectos del contexto en ella
-- Encontramos actividades que la reabastesca
+![[platzi-eplpylo-01-administración-de-la-motivacion.png]]
 
 #### La motivación requiere reabastecimiento
 
+![[platzy-eplpylo-01-estimulos-que-reabastecen-la-motización.png]]
